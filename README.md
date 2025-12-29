@@ -51,6 +51,12 @@ Loaded the cleaned tables into Power BI and recreated the relationships using Pa
 Built a 4‑page interactive dashboard with slicers for Year and Month:
 
 **Screenshot of dashboard:**  
+![Preview of Homepage](https://github.com/Arijeet226/Hospital_Patient_Analysis_Dashboard-SQL-PYTHON-POWERBI-29.12.2025/blob/ec1d6659e08f2b09a8c38f7301a36910546e76c7/snippets/Screenshot%202025-12-27%20102833.png)
+**Screenshot of dashboard:**  
+![Preview of Homepage](https://github.com/Arijeet226/Hospital_Patient_Analysis_Dashboard-SQL-PYTHON-POWERBI-29.12.2025/blob/ec1d6659e08f2b09a8c38f7301a36910546e76c7/snippets/Screenshot%202025-12-27%20102848.png)
+**Screenshot of dashboard:**  
+![Preview of Homepage](https://github.com/Arijeet226/Hospital_Patient_Analysis_Dashboard-SQL-PYTHON-POWERBI-29.12.2025/blob/ec1d6659e08f2b09a8c38f7301a36910546e76c7/snippets/Screenshot%202025-12-27%20102911.png)
+**Screenshot of dashboard:**  
 ![Preview of Homepage](https://github.com/Arijeet226/Hospital_Patient_Analysis_Dashboard-SQL-PYTHON-POWERBI-29.12.2025/blob/ec1d6659e08f2b09a8c38f7301a36910546e76c7/snippets/Screenshot%202025-12-27%20102926.png)
 
 
