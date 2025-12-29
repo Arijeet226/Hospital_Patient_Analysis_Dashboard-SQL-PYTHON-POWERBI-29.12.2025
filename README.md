@@ -14,6 +14,11 @@ values and no clear structure for analysis. There was no integrated dashboard to
 management monitor KPIs such as total revenue, average cost per day, or recovery rating by
 hospital, doctor, or treatment type.
 
+🛠️ Technologies Used
+Python: Pandas (cleaning, EDA)
+MySQL: Relational modeling, SQL queries
+Power BI: Dashboard with relationships/slicers
+
 Task we pulled off are
 Cleaning and standardizing the data. Storing it properly in a relational database with
 primary/foreign keys. Answering key business questions with SQL. Presents the results in a
@@ -44,6 +49,12 @@ Wrote SQL queries to answer business questions, for example:
 4) Dashboard design (Power BI)
 Loaded the cleaned tables into Power BI and recreated the relationships using PatientID.
 Built a 4‑page interactive dashboard with slicers for Year and Month:
+
+📈 Key Visuals in Dashboard
+Revenue vs Target (trend line)
+Cost & Recovery trends (multi-line chart)
+Hospital/Doctor comparisons (bar charts)
+Treatment-type breakdowns (pie charts)
 
 Result obtained from the action
 Created a single, interactive dashboard that gives hospital management a clear view of clinical,
