@@ -2,8 +2,7 @@
 This is a complete end to end analytical project on hospital patient analysis.
 Hey Everyone I am presenting my project on Hospital Patient Analytical Dashboard. So, let’s me
 walk you through this ppt here I have jot down each and everything I did in this project. I will
-explain mostly everything from this as opening multiple files at once may cause crashing the
-system. Now, if this is clear to you all. Let’s begin
+explain mostly everything from this.So, Let’s begin
 
 Firstly, The
 ## Situation is
