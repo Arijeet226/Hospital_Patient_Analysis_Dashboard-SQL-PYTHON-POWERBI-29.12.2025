@@ -1,0 +1,1001 @@
+,PatientID,Hospital,DoctorName,RoomNumber,DailyCost,TreatmentType,RecoveryRating
+0,1,Riverside Hospital,Joseph Lopez,178,359.0060207,Surgery,10.0
+1,2,Green Valley Medical Center,James Moore,368,933.9156945,Surgery,4.0
+2,3,Riverside Hospital,Michael Lopez,260,1272.088112,Counseling,5.0
+3,4,Cedar Sinai Clinic,Linda Rodriguez,228,402.6099319,Counseling,3.0
+4,5,Riverside Hospital,Mary Hernandez,167,483.1293499,Physical Therapy,5.0
+5,6,Green Valley Medical Center,Richard Jackson,126,497.703191,Surgery,5.0
+6,7,Maple Grove Health Facility,Thomas Williams,133,632.9715359,Counseling,10.0
+7,8,Maple Grove Health Facility,Linda Martin,265,1101.93207,Physical Therapy,4.0
+8,9,Silver Oak Medical Plaza,Sarah Taylor,208,705.087576,Physical Therapy,8.0
+9,10,Cedar Sinai Clinic,Thomas Davis,381,1031.45208,Medication,9.0
+10,11,Maple Grove Health Facility,Patricia Anderson,167,1479.402633,Physical Therapy,10.0
+11,12,Cedar Sinai Clinic,Charles Hernandez,255,1304.393059,Physical Therapy,3.0
+12,13,Cedar Sinai Clinic,Mary Gonzalez,257,1926.852778,Physical Therapy,3.0
+13,14,n/a,Linda Martin,456,552.9519832,Physical Therapy,3.0
+14,15,Riverside Hospital,Thomas Miller,240,1052.074689,Physical Therapy,7.0
+15,16,Green Valley Medical Center,Sarah Jackson,404,907.8511421,Surgery,2.0
+16,17,Cedar Sinai Clinic,Sarah Wilson,332,399.2509535,Physical Therapy,1.0
+17,18,Silver Oak Medical Plaza,Elizabeth Wilson,481,1140.278528,Physical Therapy,3.0
+18,19,Green Valley Medical Center,Robert Taylor,54,153.4989991,Counseling,6.0
+19,20,Maple Grove Health Facility,Joseph Taylor,301,950.8952422,Counseling,9.0
+20,21,Silver Oak Medical Plaza,Susan Jones,165,518.6732444,Surgery,2.0
+21,22,Silver Oak Medical Plaza,Elizabeth Moore,397,407.7503006,Physical Therapy,4.0
+22,23,Green Valley Medical Center,Mary Davis,196,585.0784859,Surgery,6.0
+23,24,Maple Grove Health Facility,Barbara Garcia,92,906.4207969,Surgery,2.0
+24,25,Silver Oak Medical Plaza,Thomas Rodriguez,417,815.7182617,Surgery,5.0
+25,26,Green Valley Medical Center,Michael Jackson,121,1444.654544,Surgery,1.0
+26,27,Maple Grove Health Facility,John Wilson,493,557.2201473,Medication,9.0
+27,28,Cedar Sinai Clinic,Sarah Davis,294,1229.365384,Medication,8.0
+28,29,n/a,William Anderson,479,955.9280963,Surgery,9.0
+29,30,n/a,Mary Thomas,235,280.1131602,Counseling,6.0
+30,31,Riverside Hospital,Robert Smith,49,174.6876346,Physical Therapy,9.0
+31,32,Maple Grove Health Facility,Sarah Anderson,484,960.6764749,Medication,10.0
+32,33,Silver Oak Medical Plaza,James Martinez,133,350.0700877,Medication,3.0
+33,34,Green Valley Medical Center,Susan Wilson,317,1352.719198,Surgery,1.0
+34,35,Riverside Hospital,William Lopez,92,1098.321036,Physical Therapy,1.0
+35,36,Cedar Sinai Clinic,Michael Johnson,295,668.4972112,Medication,1.0
+36,37,n/a,David Brown,384,1924.741619,Medication,3.0
+37,38,n/a,Linda Miller,404,871.1224639,Counseling,8.0
+38,39,Maple Grove Health Facility,Patricia Hernandez,279,631.3717977,Surgery,6.0
+39,40,Silver Oak Medical Plaza,Richard Garcia,116,348.7539247,Surgery,4.0
+40,41,Silver Oak Medical Plaza,William Thomas,493,838.0924076,Counseling,2.0
+41,42,Maple Grove Health Facility,Jennifer Johnson,198,1703.617701,Counseling,5.0
+42,43,Cedar Sinai Clinic,William Moore,31,233.1287434,Physical Therapy,5.0
+43,44,Green Valley Medical Center,Patricia Taylor,359,1716.128754,Medication,7.0
+44,45,Silver Oak Medical Plaza,Robert Davis,498,847.5029629,Counseling,10.0
+45,46,n/a,Robert Smith,142,537.6045659,Counseling,3.0
+46,47,Cedar Sinai Clinic,John Hernandez,210,100.8032447,Physical Therapy,5.0
+47,48,Maple Grove Health Facility,James Gonzalez,41,663.4422719,Counseling,8.0
+48,49,Green Valley Medical Center,John Miller,381,1678.277865,Physical Therapy,7.0
+49,50,Silver Oak Medical Plaza,Jennifer Garcia,190,1904.75538,Counseling,6.0
+50,51,Green Valley Medical Center,Susan Rodriguez,467,966.6445439,Physical Therapy,5.0
+51,52,Green Valley Medical Center,James Brown,462,920.9892596,Physical Therapy,5.0
+52,53,Riverside Hospital,Linda Williams,445,1969.861126,Physical Therapy,2.0
+53,54,Riverside Hospital,William Rodriguez,443,792.0226411,Surgery,7.0
+54,55,Green Valley Medical Center,Linda Rodriguez,295,1741.954653,Physical Therapy,2.0
+55,56,Green Valley Medical Center,William Gonzalez,56,624.2147552,Counseling,2.0
+56,57,n/a,Jessica Taylor,334,622.4354013,Physical Therapy,3.0
+57,58,Silver Oak Medical Plaza,John Martin,424,562.8113597,Medication,10.0
+58,59,Maple Grove Health Facility,Susan Jackson,215,418.3028565,Surgery,4.0
+59,60,Cedar Sinai Clinic,James Jones,382,61.76590807,Physical Therapy,3.0
+60,61,Riverside Hospital,Sarah Garcia,243,821.2444489,Physical Therapy,9.0
+61,62,Riverside Hospital,Mary Lopez,111,1908.248605,Counseling,5.0
+62,63,Riverside Hospital,David Davis,469,579.0241169,Medication,6.0
+63,64,Green Valley Medical Center,Sarah Smith,356,1957.848687,Surgery,6.0
+64,65,Riverside Hospital,Jessica Miller,100,385.7853556,Medication,9.0
+65,66,Cedar Sinai Clinic,Barbara Davis,44,1037.04963,Medication,6.0
+66,67,Green Valley Medical Center,Charles Davis,480,538.5066197,Surgery,4.0
+67,68,Green Valley Medical Center,Sarah Garcia,359,370.2017158,Physical Therapy,1.0
+68,69,Maple Grove Health Facility,Richard Williams,221,1156.229059,Physical Therapy,2.0
+69,70,Silver Oak Medical Plaza,William Rodriguez,482,1977.376739,Surgery,10.0
+70,71,Cedar Sinai Clinic,Karen Miller,137,1039.441926,Surgery,1.0
+71,72,Maple Grove Health Facility,Susan Miller,166,1810.614231,Counseling,8.0
+72,73,Green Valley Medical Center,Richard Rodriguez,185,1934.960953,Medication,9.0
+73,74,Maple Grove Health Facility,Joseph Martin,203,127.7631057,Surgery,8.0
+74,75,Silver Oak Medical Plaza,Elizabeth Brown,483,432.3289485,Surgery,8.0
+75,76,n/a,Elizabeth Johnson,4,242.0217152,Counseling,2.0
+76,77,Cedar Sinai Clinic,James Williams,135,857.3529339,Medication,5.0
+77,78,Cedar Sinai Clinic,Joseph Rodriguez,28,377.3951155,Physical Therapy,9.0
+78,79,Maple Grove Health Facility,Mary Smith,19,1213.395436,Surgery,8.0
+79,80,Maple Grove Health Facility,Barbara Jones,39,239.5105976,Surgery,8.0
+80,81,Maple Grove Health Facility,Elizabeth Brown,452,537.5448506,Physical Therapy,2.0
+81,82,Riverside Hospital,David Johnson,172,1437.465522,Counseling,6.0
+82,83,Riverside Hospital,Robert Wilson,181,486.445348,Counseling,4.0
+83,84,Maple Grove Health Facility,John Thomas,127,458.237371,Physical Therapy,5.0
+84,85,Cedar Sinai Clinic,Mary Smith,494,1274.902762,Surgery,2.0
+85,86,Silver Oak Medical Plaza,Linda Garcia,165,1891.647303,Physical Therapy,6.0
+86,87,Silver Oak Medical Plaza,Jennifer Smith,371,974.8191655,Medication,4.0
+87,88,Green Valley Medical Center,Susan Lopez,386,493.9716773,Counseling,6.0
+88,89,Riverside Hospital,Michael Anderson,125,721.4855788,Medication,2.0
+89,90,Green Valley Medical Center,Elizabeth Jones,23,1490.531442,Medication,4.0
+90,91,Maple Grove Health Facility,Sarah Wilson,170,1101.658295,Surgery,3.0
+91,92,Silver Oak Medical Plaza,Thomas Davis,449,675.3201638,Surgery,10.0
+92,93,Riverside Hospital,Barbara Garcia,70,1487.677355,Physical Therapy,1.0
+93,94,Green Valley Medical Center,Sarah Johnson,255,534.9274849,Medication,3.0
+94,95,Maple Grove Health Facility,Linda Taylor,140,526.1030184,Counseling,1.0
+95,96,Riverside Hospital,Jessica Taylor,454,1488.735268,Counseling,7.0
+96,97,Riverside Hospital,Elizabeth Garcia,97,1416.013925,Medication,10.0
+97,98,Silver Oak Medical Plaza,James Wilson,385,1587.553897,Medication,8.0
+98,99,Silver Oak Medical Plaza,Mary Anderson,229,754.0995413,Surgery,1.0
+99,100,Riverside Hospital,Sarah Wilson,233,1088.178486,Medication,3.0
+100,101,Green Valley Medical Center,Elizabeth Moore,191,808.9972749,Physical Therapy,2.0
+101,102,Silver Oak Medical Plaza,Thomas Hernandez,72,480.5409435,Medication,5.0
+102,103,Maple Grove Health Facility,Thomas Moore,324,1732.888575,Counseling,6.0
+103,104,Green Valley Medical Center,Susan Brown,477,544.74331,Physical Therapy,8.0
+104,105,Cedar Sinai Clinic,Jennifer Miller,69,205.769501,Physical Therapy,5.0
+105,106,Green Valley Medical Center,Susan Martin,15,1233.082641,Medication,1.0
+106,107,Riverside Hospital,David Rodriguez,67,1181.510101,Medication,9.0
+107,108,Maple Grove Health Facility,Jennifer Garcia,276,1010.62243,Medication,4.0
+108,109,n/a,David Taylor,65,1740.700204,Surgery,5.0
+109,110,Riverside Hospital,John Brown,104,1689.849129,Medication,4.0
+110,111,Silver Oak Medical Plaza,Michael Thomas,466,866.5726695,Counseling,3.0
+111,112,Riverside Hospital,Patricia Hernandez,371,528.2586965,Counseling,10.0
+112,113,Maple Grove Health Facility,John Lopez,61,977.415283,Surgery,9.0
+113,114,Green Valley Medical Center,Patricia Taylor,325,86.44838827,Counseling,4.0
+114,115,Green Valley Medical Center,Robert Miller,136,1202.470994,Physical Therapy,8.0
+115,116,Green Valley Medical Center,Elizabeth Hernandez,99,1742.998279,Counseling,7.0
+116,117,Silver Oak Medical Plaza,Patricia Taylor,19,224.249906,Surgery,6.0
+117,118,Cedar Sinai Clinic,Michael Brown,136,933.7698874,Surgery,2.0
+118,119,Green Valley Medical Center,Mary Jones,418,376.4312561,Medication,10.0
+119,120,Silver Oak Medical Plaza,William Hernandez,16,317.602602,Counseling,5.0
+120,121,Maple Grove Health Facility,William Lopez,479,1805.749679,Medication,5.0
+121,122,Riverside Hospital,David Brown,156,179.1839587,Physical Therapy,5.0
+122,123,Riverside Hospital,Mary Taylor,482,987.0523578,Surgery,2.0
+123,124,Silver Oak Medical Plaza,Sarah Martin,204,1318.563567,Medication,3.0
+124,125,Silver Oak Medical Plaza,Michael Anderson,406,1515.041499,Counseling,3.0
+125,126,Cedar Sinai Clinic,Elizabeth Jackson,401,1031.917214,Physical Therapy,10.0
+126,127,Cedar Sinai Clinic,Joseph Taylor,416,1143.882137,Surgery,9.0
+127,128,Cedar Sinai Clinic,James Anderson,128,846.9385802,Physical Therapy,4.0
+128,129,Riverside Hospital,Richard Moore,229,1100.657271,Surgery,6.0
+129,130,Green Valley Medical Center,Richard Brown,258,827.9086888,Counseling,3.0
+130,131,Silver Oak Medical Plaza,Karen Smith,84,1115.230097,Surgery,7.0
+131,132,Green Valley Medical Center,Patricia Jones,35,1871.454459,Counseling,8.0
+132,133,Cedar Sinai Clinic,Elizabeth Lopez,479,363.6367647,Surgery,9.0
+133,134,Cedar Sinai Clinic,Mary Williams,302,804.2215361,Physical Therapy,9.0
+134,135,Cedar Sinai Clinic,Linda Lopez,334,462.618083,Medication,4.0
+135,136,Green Valley Medical Center,David Hernandez,177,181.014214,Counseling,7.0
+136,137,Silver Oak Medical Plaza,Thomas Gonzalez,375,1263.001468,Surgery,2.0
+137,138,Riverside Hospital,Sarah Smith,256,391.3853936,Counseling,10.0
+138,139,n/a,Robert Moore,471,658.4049469,Surgery,1.0
+139,140,Green Valley Medical Center,Karen Smith,322,230.4330317,Physical Therapy,1.0
+140,141,Silver Oak Medical Plaza,David Thomas,277,1353.747152,Counseling,8.0
+141,142,Cedar Sinai Clinic,Jennifer Rodriguez,290,1559.304935,Medication,1.0
+142,143,Riverside Hospital,Patricia Miller,480,1469.858551,Counseling,2.0
+143,144,Silver Oak Medical Plaza,John Brown,195,177.9144352,Physical Therapy,6.0
+144,145,Green Valley Medical Center,Jessica Hernandez,15,1256.878013,Surgery,1.0
+145,146,Green Valley Medical Center,Linda Martinez,357,1401.158611,Surgery,1.0
+146,147,Silver Oak Medical Plaza,Barbara Gonzalez,166,1897.229606,Physical Therapy,2.0
+147,148,Riverside Hospital,Joseph Brown,137,724.3292459,Physical Therapy,9.0
+148,149,Riverside Hospital,Richard Miller,133,1020.519861,Surgery,2.0
+149,150,Riverside Hospital,Michael Jones,85,199.246439,Physical Therapy,9.0
+150,151,Green Valley Medical Center,Robert Gonzalez,97,738.7590033,Counseling,6.0
+151,152,n/a,Jessica Rodriguez,414,1939.614596,Counseling,6.0
+152,153,Green Valley Medical Center,Elizabeth Hernandez,100,667.267717,Counseling,6.0
+153,154,Maple Grove Health Facility,Barbara Williams,369,407.3180178,Surgery,2.0
+154,155,Green Valley Medical Center,Charles Miller,115,551.8770031,Surgery,5.0
+155,156,Green Valley Medical Center,Mary Smith,274,1393.377257,Counseling,9.0
+156,157,Green Valley Medical Center,Richard Johnson,341,81.96835412,Surgery,4.0
+157,158,Silver Oak Medical Plaza,Jessica Rodriguez,262,1251.335387,Surgery,3.0
+158,159,Maple Grove Health Facility,Richard Anderson,412,467.7672012,Counseling,7.0
+159,160,Silver Oak Medical Plaza,Robert Moore,479,841.3632376,Surgery,6.0
+160,161,Green Valley Medical Center,John Jones,466,1706.203651,Counseling,4.0
+161,162,Green Valley Medical Center,Joseph Hernandez,470,756.605198,Physical Therapy,3.0
+162,163,Green Valley Medical Center,Robert Smith,360,767.003154,Physical Therapy,5.0
+163,164,Cedar Sinai Clinic,Patricia Martin,157,1569.250613,Physical Therapy,6.0
+164,165,Green Valley Medical Center,David Moore,360,943.6071092,Medication,10.0
+165,166,Maple Grove Health Facility,James Garcia,362,1443.401549,Physical Therapy,2.0
+166,167,Riverside Hospital,William Garcia,356,424.1769183,Medication,1.0
+167,168,Green Valley Medical Center,Karen Martin,294,1516.21132,Physical Therapy,4.0
+168,169,Riverside Hospital,Linda Hernandez,43,155.0470369,Medication,4.0
+169,170,Maple Grove Health Facility,John Taylor,125,1244.838168,Surgery,6.0
+170,171,Cedar Sinai Clinic,John Hernandez,188,577.9756777,Medication,1.0
+171,172,Silver Oak Medical Plaza,William Taylor,39,1330.906415,Medication,2.0
+172,173,Cedar Sinai Clinic,Michael Wilson,421,1188.397985,Surgery,7.0
+173,174,Riverside Hospital,Mary Johnson,277,339.767214,Counseling,7.0
+174,175,Silver Oak Medical Plaza,Robert Martinez,331,401.1226987,Surgery,6.0
+175,176,Silver Oak Medical Plaza,Mary Rodriguez,368,911.7214866,Physical Therapy,10.0
+176,177,Green Valley Medical Center,Richard Jones,113,367.7054581,Counseling,8.0
+177,178,Cedar Sinai Clinic,Joseph Wilson,400,1573.153618,Surgery,6.0
+178,179,Silver Oak Medical Plaza,Karen Brown,494,352.9461857,Surgery,1.0
+179,180,Cedar Sinai Clinic,Jessica Rodriguez,38,833.3465023,Counseling,6.0
+180,181,Green Valley Medical Center,Robert Jackson,277,58.29473036,Counseling,1.0
+181,182,Green Valley Medical Center,Elizabeth Rodriguez,478,1368.59333,Medication,10.0
+182,183,Silver Oak Medical Plaza,James Smith,173,198.2720347,Physical Therapy,2.0
+183,184,Riverside Hospital,Thomas Brown,251,1887.894539,Surgery,6.0
+184,185,Maple Grove Health Facility,Elizabeth Johnson,403,658.8164106,Physical Therapy,4.0
+185,186,Cedar Sinai Clinic,William Gonzalez,334,504.2643499,Physical Therapy,6.0
+186,187,Silver Oak Medical Plaza,Joseph Rodriguez,161,207.7273526,Physical Therapy,2.0
+187,188,Maple Grove Health Facility,Linda Lopez,454,936.3574742,Medication,4.0
+188,189,Maple Grove Health Facility,Joseph Jones,425,843.3568581,Counseling,6.0
+189,190,Riverside Hospital,Karen Martin,206,1084.888502,Surgery,2.0
+190,191,Maple Grove Health Facility,Richard Hernandez,154,415.7413022,Physical Therapy,10.0
+191,192,Silver Oak Medical Plaza,Karen Thomas,34,553.652287,Counseling,3.0
+192,193,Cedar Sinai Clinic,Thomas Anderson,3,856.0143836,Counseling,10.0
+193,194,Cedar Sinai Clinic,Thomas Jones,23,1809.199458,Surgery,8.0
+194,195,Silver Oak Medical Plaza,Jessica Wilson,4,143.0440631,Medication,9.0
+195,196,Cedar Sinai Clinic,Thomas Martin,493,702.8113683,Surgery,7.0
+196,197,n/a,Robert Jackson,198,219.0101074,Physical Therapy,2.0
+197,198,Riverside Hospital,Michael Wilson,3,752.8306732,Medication,8.0
+198,199,Cedar Sinai Clinic,Joseph Jones,161,348.8317884,Medication,8.0
+199,200,Riverside Hospital,Karen Gonzalez,66,537.3960435,Surgery,2.0
+200,201,Green Valley Medical Center,David Moore,177,1330.123296,Counseling,1.0
+201,202,Riverside Hospital,Mary Smith,144,1753.450499,Surgery,9.0
+202,203,Green Valley Medical Center,Jennifer Johnson,362,1868.552431,Medication,5.0
+203,204,Riverside Hospital,John Martinez,354,756.8859016,Surgery,3.0
+204,205,Green Valley Medical Center,Mary Martinez,210,260.3692817,Counseling,9.0
+205,206,Riverside Hospital,Jennifer Rodriguez,243,516.0657539,Medication,3.0
+206,207,Green Valley Medical Center,Linda Williams,194,1745.660666,Counseling,3.0
+207,208,Cedar Sinai Clinic,Mary Jones,336,966.7376836,Physical Therapy,10.0
+208,209,Green Valley Medical Center,William Johnson,123,738.6998037,Physical Therapy,5.0
+209,210,Cedar Sinai Clinic,Joseph Smith,358,709.1486179,Counseling,2.0
+210,211,Cedar Sinai Clinic,Elizabeth Miller,180,1077.88792,Counseling,7.0
+211,212,Maple Grove Health Facility,Michael Gonzalez,89,659.205892,Medication,8.0
+212,213,Green Valley Medical Center,Linda Anderson,261,282.1426546,Surgery,5.0
+213,214,Silver Oak Medical Plaza,Thomas Garcia,274,602.1588894,Physical Therapy,6.0
+214,215,Silver Oak Medical Plaza,David Martinez,153,570.2651248,Medication,4.0
+215,216,Riverside Hospital,Jennifer Garcia,197,997.596195,Surgery,2.0
+216,217,Silver Oak Medical Plaza,Richard Rodriguez,328,561.2557852,Counseling,6.0
+217,218,Silver Oak Medical Plaza,James Rodriguez,273,1915.042632,Counseling,2.0
+218,219,Cedar Sinai Clinic,Charles Anderson,158,534.4609018,Physical Therapy,5.0
+219,220,n/a,Barbara Rodriguez,278,1929.613997,Surgery,10.0
+220,221,Green Valley Medical Center,Michael Miller,385,594.1603395,Medication,8.0
+221,222,Maple Grove Health Facility,Mary Jackson,139,596.7578677,Physical Therapy,5.0
+222,223,Cedar Sinai Clinic,Joseph Thomas,139,190.4442269,Physical Therapy,1.0
+223,224,Cedar Sinai Clinic,Jessica Thomas,299,1349.319395,Surgery,6.0
+224,225,Riverside Hospital,Mary Jackson,122,591.2938405,Counseling,4.0
+225,226,Silver Oak Medical Plaza,Karen Brown,387,941.1567383,Physical Therapy,5.0
+226,227,Maple Grove Health Facility,Linda Garcia,366,1297.187222,Surgery,4.0
+227,228,Green Valley Medical Center,Charles Smith,308,1367.984118,Medication,5.0
+228,229,n/a,Barbara Rodriguez,100,228.048993,Medication,5.0
+229,230,Maple Grove Health Facility,John Miller,280,1383.127682,Medication,6.0
+230,231,Silver Oak Medical Plaza,Richard Jones,429,1883.847839,Counseling,5.0
+231,232,Riverside Hospital,Michael Brown,102,1222.9355,Medication,10.0
+232,233,Green Valley Medical Center,Linda Martin,98,1503.733023,Surgery,7.0
+233,234,Cedar Sinai Clinic,Jessica Rodriguez,149,1617.910414,Physical Therapy,10.0
+234,235,Green Valley Medical Center,Barbara Thomas,45,1625.918734,Counseling,4.0
+235,236,Riverside Hospital,Charles Hernandez,239,1403.720625,Surgery,8.0
+236,237,Cedar Sinai Clinic,Barbara Gonzalez,207,627.0518747,Medication,4.0
+237,238,Green Valley Medical Center,Charles Anderson,284,1750.513192,Counseling,3.0
+238,239,Riverside Hospital,Mary Smith,42,1942.172427,Surgery,3.0
+239,240,Cedar Sinai Clinic,William Williams,370,649.9407789,Surgery,5.0
+240,241,Silver Oak Medical Plaza,Sarah Davis,403,147.2380015,Medication,4.0
+241,242,Cedar Sinai Clinic,Susan Hernandez,283,320.6062365,Medication,5.0
+242,243,n/a,Linda Brown,159,1307.500812,Medication,1.0
+243,244,Riverside Hospital,Susan Johnson,453,1063.271708,Physical Therapy,5.0
+244,245,Cedar Sinai Clinic,Karen Brown,425,412.0166656,Surgery,2.0
+245,246,Riverside Hospital,John Miller,278,643.2440291,Medication,7.0
+246,247,Cedar Sinai Clinic,David Williams,307,1288.818504,Surgery,1.0
+247,248,Silver Oak Medical Plaza,Robert Moore,69,1490.171213,Physical Therapy,9.0
+248,249,Green Valley Medical Center,Patricia Martin,60,167.6249625,Medication,3.0
+249,250,Green Valley Medical Center,Robert Anderson,451,1103.661187,Physical Therapy,6.0
+250,251,Silver Oak Medical Plaza,James Rodriguez,105,1510.174205,Surgery,1.0
+251,252,Maple Grove Health Facility,Joseph Taylor,443,1716.426185,Physical Therapy,2.0
+252,253,n/a,Barbara Martinez,308,1908.841211,Physical Therapy,3.0
+253,254,n/a,Elizabeth Moore,211,912.0028093,Physical Therapy,5.0
+254,255,n/a,John Smith,102,902.8869861,Surgery,7.0
+255,256,Cedar Sinai Clinic,Jennifer Johnson,19,1119.972968,Surgery,6.0
+256,257,Green Valley Medical Center,Mary Martinez,74,1583.437807,Surgery,10.0
+257,258,Cedar Sinai Clinic,Thomas Moore,237,1311.237403,Surgery,5.0
+258,259,Green Valley Medical Center,David Moore,217,1385.13337,Surgery,2.0
+259,260,Maple Grove Health Facility,Patricia Wilson,247,1599.580679,Counseling,4.0
+260,261,Green Valley Medical Center,Jennifer Hernandez,259,974.2988718,Medication,2.0
+261,262,Silver Oak Medical Plaza,Sarah Lopez,45,663.7486518,Medication,1.0
+262,263,Green Valley Medical Center,Richard Jackson,409,692.2413182,Counseling,9.0
+263,264,Riverside Hospital,Sarah Rodriguez,375,1761.103426,Physical Therapy,8.0
+264,265,Green Valley Medical Center,Jennifer Johnson,470,624.9751277,Medication,1.0
+265,266,Green Valley Medical Center,Robert Martin,451,1913.540559,Surgery,2.0
+266,267,Cedar Sinai Clinic,Richard Anderson,49,970.4275173,Medication,5.0
+267,268,Silver Oak Medical Plaza,Michael Anderson,263,406.5556537,Medication,6.0
+268,269,Green Valley Medical Center,Richard Rodriguez,37,253.6871975,Medication,1.0
+269,270,Cedar Sinai Clinic,William Williams,289,1312.961076,Physical Therapy,5.0
+270,271,Maple Grove Health Facility,John Miller,22,723.5084575,Physical Therapy,9.0
+271,272,Cedar Sinai Clinic,Jennifer Martinez,104,606.256047,Counseling,5.0
+272,273,Green Valley Medical Center,Barbara Miller,365,541.4150648,Counseling,5.0
+273,274,Silver Oak Medical Plaza,James Johnson,272,1945.512676,Counseling,7.0
+274,275,n/a,James Taylor,106,1605.91795,Surgery,6.0
+275,276,Maple Grove Health Facility,Joseph Johnson,99,372.056173,Surgery,6.0
+276,277,Cedar Sinai Clinic,James Brown,244,1307.919772,Physical Therapy,8.0
+277,278,Cedar Sinai Clinic,Jessica Williams,399,93.11747312,Counseling,5.0
+278,279,Cedar Sinai Clinic,Richard Anderson,90,417.3705999,Surgery,2.0
+279,280,Maple Grove Health Facility,Susan Smith,424,86.96659051,Counseling,1.0
+280,281,Maple Grove Health Facility,Mary Taylor,211,349.2491154,Surgery,2.0
+281,282,Cedar Sinai Clinic,James Anderson,336,1873.04198,Medication,3.0
+282,283,Green Valley Medical Center,Joseph Jones,306,88.95909418,Medication,10.0
+283,284,Silver Oak Medical Plaza,Michael Wilson,252,1163.883055,Physical Therapy,10.0
+284,285,Maple Grove Health Facility,Elizabeth Thomas,241,1601.062455,Counseling,6.0
+285,286,Green Valley Medical Center,Patricia Moore,123,1689.061372,Medication,1.0
+286,287,Maple Grove Health Facility,Elizabeth Taylor,460,1657.978391,Counseling,5.0
+287,288,Silver Oak Medical Plaza,Joseph Williams,1,103.6653035,Surgery,5.0
+288,289,Green Valley Medical Center,Mary Williams,100,156.3132526,Counseling,3.0
+289,290,Maple Grove Health Facility,Elizabeth Wilson,461,851.7200439,Surgery,3.0
+290,291,n/a,Richard Johnson,131,1139.726719,Medication,3.0
+291,292,Green Valley Medical Center,Barbara Smith,389,1804.823293,Surgery,9.0
+292,293,Green Valley Medical Center,Jessica Martin,374,868.1680978,Physical Therapy,5.0
+293,294,Riverside Hospital,Karen Smith,473,1212.400513,Physical Therapy,6.0
+294,295,Green Valley Medical Center,William Thomas,400,1552.041407,Surgery,5.0
+295,296,Silver Oak Medical Plaza,Susan Jones,228,1363.56346,Physical Therapy,5.0
+296,297,Cedar Sinai Clinic,Jessica Johnson,199,1280.25707,Counseling,7.0
+297,298,Silver Oak Medical Plaza,Thomas Martin,272,585.3391949,Medication,6.0
+298,299,Green Valley Medical Center,Michael Rodriguez,277,1179.288434,Counseling,10.0
+299,300,Silver Oak Medical Plaza,John Rodriguez,55,1690.682932,Surgery,10.0
+300,301,n/a,Linda Jones,20,1232.588517,Counseling,6.0
+301,302,Green Valley Medical Center,Mary Lopez,476,670.891039,Surgery,9.0
+302,303,n/a,Charles Davis,112,829.9242242,Medication,9.0
+303,304,Silver Oak Medical Plaza,Thomas Johnson,429,569.3956315,Physical Therapy,3.0
+304,305,Maple Grove Health Facility,Robert Gonzalez,457,405.0427617,Counseling,5.0
+305,306,Silver Oak Medical Plaza,Barbara Davis,480,548.5482888,Physical Therapy,9.0
+306,307,Silver Oak Medical Plaza,Linda Jones,323,1447.823775,Surgery,9.0
+307,308,Green Valley Medical Center,Mary Martin,415,724.5485106,Surgery,4.0
+308,309,Maple Grove Health Facility,Michael Brown,299,122.0362419,Physical Therapy,9.0
+309,310,Green Valley Medical Center,Linda Hernandez,200,828.8598367,Surgery,1.0
+310,311,Green Valley Medical Center,John Brown,253,1024.989693,Counseling,7.0
+311,312,Maple Grove Health Facility,Barbara Garcia,225,183.0587244,Surgery,5.0
+312,313,Green Valley Medical Center,Sarah Martinez,485,559.786955,Counseling,7.0
+313,314,Green Valley Medical Center,Jessica Williams,282,1617.511509,Counseling,1.0
+314,315,n/a,Barbara Davis,461,782.4750668,Counseling,7.0
+315,316,Riverside Hospital,Joseph Rodriguez,332,1477.084708,Physical Therapy,5.0
+316,317,Maple Grove Health Facility,David Lopez,282,618.3435676,Counseling,10.0
+317,318,n/a,Linda Williams,342,1406.484415,Medication,10.0
+318,319,Maple Grove Health Facility,James Lopez,481,83.71347909,Counseling,4.0
+319,320,Silver Oak Medical Plaza,Jennifer Johnson,235,1522.109103,Medication,7.0
+320,321,Cedar Sinai Clinic,William Lopez,176,241.4762169,Medication,7.0
+321,322,Riverside Hospital,Barbara Martinez,17,1256.036436,Physical Therapy,4.0
+322,323,Riverside Hospital,Thomas Hernandez,163,88.92776353,Surgery,3.0
+323,324,Maple Grove Health Facility,Patricia Martinez,155,504.7795045,Counseling,6.0
+324,325,Riverside Hospital,Patricia Miller,368,900.8360406,Physical Therapy,4.0
+325,326,Riverside Hospital,Karen Martin,228,650.9913797,Medication,4.0
+326,327,Maple Grove Health Facility,Susan Taylor,443,704.1149504,Physical Therapy,9.0
+327,328,Silver Oak Medical Plaza,Patricia Miller,305,1736.186101,Counseling,10.0
+328,329,Silver Oak Medical Plaza,Robert Hernandez,402,1224.083756,Physical Therapy,10.0
+329,330,Maple Grove Health Facility,Robert Jackson,13,1257.640285,Medication,5.0
+330,331,Riverside Hospital,Robert Gonzalez,72,1335.464766,Surgery,8.0
+331,332,Green Valley Medical Center,Sarah Hernandez,359,942.442931,Counseling,1.0
+332,333,Cedar Sinai Clinic,Robert Martin,36,874.1301384,Surgery,9.0
+333,334,Green Valley Medical Center,Jessica Smith,327,1859.051445,Physical Therapy,6.0
+334,335,Maple Grove Health Facility,Charles Martinez,207,1000.073175,Counseling,10.0
+335,336,Green Valley Medical Center,Elizabeth Martin,186,1765.914453,Surgery,3.0
+336,337,Silver Oak Medical Plaza,Jennifer Davis,161,1931.490339,Physical Therapy,7.0
+337,338,Riverside Hospital,Mary Jones,330,1091.104014,Medication,10.0
+338,339,Maple Grove Health Facility,Joseph Johnson,232,1600.463955,Medication,8.0
+339,340,Cedar Sinai Clinic,Mary Garcia,353,965.0853879,Surgery,5.0
+340,341,Silver Oak Medical Plaza,Sarah Brown,11,1768.79911,Surgery,8.0
+341,342,Riverside Hospital,John Martinez,458,767.182044,Medication,9.0
+342,343,Silver Oak Medical Plaza,Sarah Lopez,417,1633.53754,Surgery,8.0
+343,344,Riverside Hospital,Patricia Wilson,307,209.8004612,Counseling,4.0
+344,345,Maple Grove Health Facility,Patricia Wilson,358,75.20184699,Counseling,7.0
+345,346,Green Valley Medical Center,Michael Miller,286,1908.838645,Surgery,4.0
+346,347,Maple Grove Health Facility,William Lopez,297,525.1487952,Medication,5.0
+347,348,Cedar Sinai Clinic,Jessica Martinez,85,1021.859406,Counseling,5.0
+348,349,Silver Oak Medical Plaza,Thomas Rodriguez,23,1693.870749,Counseling,5.0
+349,350,Cedar Sinai Clinic,David Moore,25,1872.911948,Physical Therapy,7.0
+350,351,Green Valley Medical Center,Jennifer Hernandez,246,1251.989863,Surgery,4.0
+351,352,Green Valley Medical Center,Jessica Anderson,147,1028.574703,Surgery,5.0
+352,353,Cedar Sinai Clinic,Susan Thomas,54,1908.965671,Surgery,2.0
+353,354,Riverside Hospital,Robert Taylor,125,1161.785967,Medication,9.0
+354,355,Cedar Sinai Clinic,Jessica Smith,413,1458.1682,Counseling,5.0
+355,356,Cedar Sinai Clinic,Charles Johnson,137,1629.296378,Medication,2.0
+356,357,Cedar Sinai Clinic,John Moore,294,960.2253478,Counseling,5.0
+357,358,n/a,Linda Garcia,392,1657.523244,Medication,5.0
+358,359,Silver Oak Medical Plaza,Richard Williams,400,129.3396888,Counseling,4.0
+359,360,Riverside Hospital,Robert Hernandez,198,1340.388618,Surgery,9.0
+360,361,Riverside Hospital,John Moore,403,1849.932638,Counseling,9.0
+361,362,Green Valley Medical Center,Thomas Lopez,385,939.9584363,Physical Therapy,7.0
+362,363,Maple Grove Health Facility,Elizabeth Lopez,185,434.8840163,Surgery,5.0
+363,364,Riverside Hospital,Thomas Anderson,270,287.0225777,Medication,6.0
+364,365,Maple Grove Health Facility,Robert Garcia,373,227.5769928,Surgery,1.0
+365,366,Maple Grove Health Facility,David Martin,437,1258.51557,Counseling,3.0
+366,367,n/a,Sarah Williams,28,440.7914778,Medication,5.0
+367,368,Riverside Hospital,Charles Brown,470,440.5839742,Medication,2.0
+368,369,Cedar Sinai Clinic,Mary Lopez,465,508.7225061,Counseling,4.0
+369,370,Silver Oak Medical Plaza,John Martinez,457,1647.419103,Surgery,2.0
+370,371,Silver Oak Medical Plaza,Joseph Martinez,11,1286.035717,Medication,2.0
+371,372,Riverside Hospital,Karen Taylor,24,717.8114997,Surgery,9.0
+372,373,Cedar Sinai Clinic,Jennifer Jackson,142,965.2917841,Physical Therapy,10.0
+373,374,Cedar Sinai Clinic,Susan Moore,69,254.8055217,Physical Therapy,7.0
+374,375,Silver Oak Medical Plaza,Thomas Johnson,268,1472.481309,Surgery,6.0
+375,376,Silver Oak Medical Plaza,Jennifer Williams,47,1665.16897,Surgery,4.0
+376,377,Cedar Sinai Clinic,Thomas Anderson,347,696.661542,Counseling,8.0
+377,378,Maple Grove Health Facility,Sarah Smith,409,844.0058661,Counseling,3.0
+378,379,Maple Grove Health Facility,Joseph Brown,166,52.0236982,Medication,6.0
+379,380,Cedar Sinai Clinic,Joseph Smith,50,1475.856956,Physical Therapy,3.0
+380,381,Silver Oak Medical Plaza,William Taylor,105,1096.716252,Surgery,8.0
+381,382,n/a,Richard Brown,390,1946.075138,Surgery,8.0
+382,383,Green Valley Medical Center,Karen Johnson,148,1884.576836,Counseling,6.0
+383,384,Silver Oak Medical Plaza,Mary Gonzalez,443,1976.261751,Medication,8.0
+384,385,Cedar Sinai Clinic,Linda Williams,489,1964.696723,Medication,1.0
+385,386,Maple Grove Health Facility,John Miller,46,1780.75439,Counseling,3.0
+386,387,Green Valley Medical Center,Michael Williams,108,1368.421283,Counseling,8.0
+387,388,Silver Oak Medical Plaza,Robert Rodriguez,74,797.7918422,Medication,5.0
+388,389,Green Valley Medical Center,Michael Williams,249,1177.583694,Surgery,5.0
+389,390,Maple Grove Health Facility,Linda Garcia,493,1895.239054,Counseling,5.0
+390,391,Maple Grove Health Facility,Barbara Martin,338,303.6856132,Counseling,2.0
+391,392,Riverside Hospital,Elizabeth Jackson,34,1365.422998,Counseling,3.0
+392,393,Silver Oak Medical Plaza,David Hernandez,341,1105.388474,Counseling,6.0
+393,394,Green Valley Medical Center,James Jones,138,1092.043326,Surgery,7.0
+394,395,Green Valley Medical Center,Mary Anderson,478,1732.644145,Counseling,9.0
+395,396,Green Valley Medical Center,Thomas Jones,86,75.97021645,Surgery,5.0
+396,397,Cedar Sinai Clinic,Susan Jackson,460,421.642583,Surgery,1.0
+397,398,Riverside Hospital,Joseph Lopez,450,393.3834287,Physical Therapy,9.0
+398,399,n/a,Susan Rodriguez,430,1437.921184,Medication,8.0
+399,400,Maple Grove Health Facility,Linda Martin,144,1968.693641,Surgery,3.0
+400,401,Maple Grove Health Facility,James Taylor,132,1611.989446,Counseling,9.0
+401,402,Cedar Sinai Clinic,John Hernandez,39,1551.269115,Physical Therapy,3.0
+402,403,Cedar Sinai Clinic,Jessica Jones,130,1370.732667,Surgery,9.0
+403,404,Green Valley Medical Center,Patricia Lopez,441,374.5692322,Surgery,6.0
+404,405,Cedar Sinai Clinic,Joseph Gonzalez,125,403.2224098,Surgery,5.0
+405,406,Silver Oak Medical Plaza,Barbara Jones,360,1329.170247,Counseling,5.0
+406,407,Green Valley Medical Center,Michael Moore,385,1846.019956,Medication,5.0
+407,408,Maple Grove Health Facility,Sarah Thomas,21,1778.953253,Counseling,6.0
+408,409,Maple Grove Health Facility,William Miller,300,1308.358624,Medication,9.0
+409,410,Maple Grove Health Facility,David Davis,75,427.1599632,Counseling,10.0
+410,411,n/a,David Johnson,447,307.9599223,Physical Therapy,7.0
+411,412,Silver Oak Medical Plaza,Susan Jackson,426,1592.785118,Surgery,2.0
+412,413,Riverside Hospital,Karen Williams,315,1032.812319,Surgery,10.0
+413,414,Silver Oak Medical Plaza,Sarah Miller,178,193.7496458,Medication,8.0
+414,415,Silver Oak Medical Plaza,Jennifer Davis,31,1123.064204,Physical Therapy,5.0
+415,416,Green Valley Medical Center,David Hernandez,111,787.0654726,Medication,7.0
+416,417,n/a,John Anderson,245,795.8959481,Physical Therapy,7.0
+417,418,Maple Grove Health Facility,Elizabeth Jones,23,582.8545075,Surgery,2.0
+418,419,Green Valley Medical Center,Mary Martinez,326,1313.479581,Medication,3.0
+419,420,Green Valley Medical Center,Charles Martinez,122,830.5807254,Medication,3.0
+420,421,Maple Grove Health Facility,Robert Brown,157,387.6466415,Counseling,5.0
+421,422,n/a,John Martinez,123,1317.37537,Physical Therapy,8.0
+422,423,Cedar Sinai Clinic,Richard Martin,59,1802.381283,Medication,10.0
+423,424,Riverside Hospital,Elizabeth Thomas,290,1530.746358,Surgery,2.0
+424,425,Riverside Hospital,Barbara Gonzalez,488,885.4866175,Counseling,3.0
+425,426,Cedar Sinai Clinic,Joseph Brown,117,125.2025156,Counseling,2.0
+426,427,Maple Grove Health Facility,Barbara Jones,315,1838.621365,Surgery,5.0
+427,428,Cedar Sinai Clinic,Jessica Anderson,306,134.4079279,Counseling,7.0
+428,429,Silver Oak Medical Plaza,Michael Thomas,488,1686.17252,Medication,4.0
+429,430,Riverside Hospital,Elizabeth Brown,207,247.2082979,Counseling,8.0
+430,431,Maple Grove Health Facility,Jennifer Garcia,194,1268.048167,Surgery,3.0
+431,432,Green Valley Medical Center,Jessica Martinez,149,457.7118785,Medication,6.0
+432,433,Maple Grove Health Facility,Patricia Martin,170,753.282767,Surgery,1.0
+433,434,Green Valley Medical Center,Michael Thomas,411,1455.873951,Surgery,5.0
+434,435,Silver Oak Medical Plaza,Charles Miller,330,1332.79575,Physical Therapy,10.0
+435,436,Maple Grove Health Facility,Thomas Jackson,294,499.6634695,Medication,5.0
+436,437,Green Valley Medical Center,Patricia Martinez,255,1713.424728,Counseling,1.0
+437,438,Maple Grove Health Facility,Linda Thomas,31,1363.307242,Medication,6.0
+438,439,Silver Oak Medical Plaza,Susan Anderson,314,1516.473727,Physical Therapy,3.0
+439,440,Riverside Hospital,Richard Taylor,287,1846.436382,Medication,4.0
+440,441,Green Valley Medical Center,Mary Wilson,233,133.957641,Surgery,10.0
+441,442,Maple Grove Health Facility,Mary Hernandez,28,696.92001,Medication,1.0
+442,443,Maple Grove Health Facility,Barbara Davis,64,204.3134639,Physical Therapy,6.0
+443,444,Cedar Sinai Clinic,Elizabeth Thomas,375,1350.475303,Counseling,2.0
+444,445,Silver Oak Medical Plaza,Jennifer Martinez,98,937.2862695,Physical Therapy,1.0
+445,446,Maple Grove Health Facility,Karen Jackson,126,1212.716983,Medication,8.0
+446,447,Riverside Hospital,Barbara Thomas,302,1514.94559,Medication,2.0
+447,448,Cedar Sinai Clinic,Mary Rodriguez,54,1405.012388,Surgery,5.0
+448,449,Silver Oak Medical Plaza,Mary Miller,257,1649.187894,Medication,1.0
+449,450,Riverside Hospital,Michael Gonzalez,191,1721.110605,Physical Therapy,2.0
+450,451,Green Valley Medical Center,Karen Miller,459,1582.509813,Medication,5.0
+451,452,Riverside Hospital,Karen Thomas,111,1086.091541,Counseling,7.0
+452,453,Green Valley Medical Center,Robert Williams,136,1561.031876,Counseling,5.0
+453,454,Green Valley Medical Center,Jennifer Taylor,436,942.3067721,Medication,5.0
+454,455,Silver Oak Medical Plaza,Elizabeth Jones,444,1974.509355,Medication,8.0
+455,456,Silver Oak Medical Plaza,Sarah Moore,100,1954.864533,Physical Therapy,9.0
+456,457,Maple Grove Health Facility,Charles Hernandez,203,209.6806889,Physical Therapy,9.0
+457,458,Green Valley Medical Center,John Hernandez,242,1284.579587,Surgery,5.0
+458,459,Maple Grove Health Facility,Charles Jones,101,1770.323601,Medication,9.0
+459,460,Maple Grove Health Facility,Karen Brown,210,1458.538633,Physical Therapy,9.0
+460,461,Cedar Sinai Clinic,Jessica Williams,462,851.544241,Surgery,6.0
+461,462,Green Valley Medical Center,Joseph Williams,431,286.7109887,Medication,4.0
+462,463,n/a,Jennifer Lopez,359,923.7751677,Counseling,5.0
+463,464,n/a,Jennifer Smith,233,1670.712645,Counseling,9.0
+464,465,Green Valley Medical Center,Elizabeth Gonzalez,445,978.8405346,Medication,3.0
+465,466,Cedar Sinai Clinic,Barbara Garcia,212,1962.028584,Counseling,10.0
+466,467,Maple Grove Health Facility,Elizabeth Davis,118,509.9293489,Surgery,7.0
+467,468,Maple Grove Health Facility,James Smith,486,1750.305367,Physical Therapy,1.0
+468,469,Green Valley Medical Center,Michael Brown,169,1128.065395,Medication,8.0
+469,470,n/a,Robert Smith,143,1792.105114,Physical Therapy,5.0
+470,471,Cedar Sinai Clinic,Robert Brown,68,1392.307912,Counseling,10.0
+471,472,Maple Grove Health Facility,Patricia Anderson,143,1846.484044,Medication,8.0
+472,473,n/a,Sarah Williams,378,992.53757,Counseling,7.0
+473,474,Green Valley Medical Center,Jennifer Thomas,221,1539.122305,Medication,6.0
+474,475,Riverside Hospital,Michael Lopez,284,1460.658302,Surgery,3.0
+475,476,Maple Grove Health Facility,David Taylor,329,1281.967597,Medication,6.0
+476,477,Riverside Hospital,John Jackson,480,653.6859242,Medication,5.0
+477,478,Cedar Sinai Clinic,Sarah Johnson,237,1292.372039,Surgery,3.0
+478,479,Riverside Hospital,Jennifer Moore,113,1390.85129,Medication,9.0
+479,480,Cedar Sinai Clinic,Jennifer Smith,113,624.1316591,Physical Therapy,10.0
+480,481,Silver Oak Medical Plaza,Jessica Davis,124,640.893306,Counseling,5.0
+481,482,Silver Oak Medical Plaza,Elizabeth Thomas,369,391.5663166,Physical Therapy,3.0
+482,483,Riverside Hospital,Patricia Lopez,179,1647.653806,Counseling,2.0
+483,484,Green Valley Medical Center,Mary Jackson,334,73.84062506,Physical Therapy,3.0
+484,485,Cedar Sinai Clinic,Mary Hernandez,72,553.4239005,Medication,6.0
+485,486,Riverside Hospital,William Jackson,234,659.5272194,Counseling,5.0
+486,487,Maple Grove Health Facility,John Rodriguez,22,1171.407982,Physical Therapy,3.0
+487,488,Silver Oak Medical Plaza,Thomas Martinez,85,1089.607922,Surgery,3.0
+488,489,Silver Oak Medical Plaza,Charles Miller,181,140.3391331,Medication,9.0
+489,490,Cedar Sinai Clinic,Barbara Wilson,461,1301.737346,Physical Therapy,5.0
+490,491,Maple Grove Health Facility,Richard Gonzalez,51,108.1852138,Surgery,3.0
+491,492,Silver Oak Medical Plaza,William Hernandez,392,1934.92558,Medication,2.0
+492,493,n/a,Patricia Jones,41,874.9683684,Surgery,10.0
+493,494,Maple Grove Health Facility,Jessica Thomas,152,1248.109024,Physical Therapy,8.0
+494,495,Maple Grove Health Facility,Thomas Martin,124,135.949405,Medication,6.0
+495,496,Riverside Hospital,Richard Davis,47,1436.497613,Surgery,6.0
+496,497,Silver Oak Medical Plaza,John Lopez,260,1971.479775,Counseling,6.0
+497,498,Maple Grove Health Facility,Susan Davis,439,714.3948366,Medication,1.0
+498,499,Maple Grove Health Facility,Susan Thomas,410,458.5820138,Medication,9.0
+499,500,Green Valley Medical Center,Charles Jones,383,973.5873235,Physical Therapy,5.0
+500,501,Riverside Hospital,David Williams,151,1176.22942,Surgery,1.0
+501,502,Silver Oak Medical Plaza,Charles Smith,294,1328.412544,Physical Therapy,9.0
+502,503,Maple Grove Health Facility,William Martin,280,1909.235966,Counseling,9.0
+503,504,Green Valley Medical Center,David Jones,365,247.3851713,Physical Therapy,2.0
+504,505,Silver Oak Medical Plaza,Robert Johnson,484,646.9531086,Surgery,2.0
+505,506,Maple Grove Health Facility,Patricia Taylor,468,775.6672644,Medication,5.0
+506,507,Riverside Hospital,Sarah Jones,364,496.3024606,Surgery,2.0
+507,508,Green Valley Medical Center,Thomas Hernandez,55,1968.497871,Counseling,6.0
+508,509,Riverside Hospital,Barbara Jones,180,1278.526655,Surgery,1.0
+509,510,Riverside Hospital,Charles Lopez,411,1437.507484,Surgery,1.0
+510,511,Riverside Hospital,Mary Williams,23,1962.500781,Medication,3.0
+511,512,Green Valley Medical Center,Joseph Garcia,138,1297.420353,Medication,6.0
+512,513,Cedar Sinai Clinic,James Garcia,120,748.806159,Counseling,3.0
+513,514,Riverside Hospital,Sarah Wilson,354,1577.297614,Counseling,1.0
+514,515,Maple Grove Health Facility,Patricia Rodriguez,447,1214.771729,Counseling,10.0
+515,516,Cedar Sinai Clinic,Jennifer Smith,259,1476.800336,Surgery,3.0
+516,517,Cedar Sinai Clinic,David Garcia,15,126.367268,Counseling,8.0
+517,518,Silver Oak Medical Plaza,Michael Martinez,66,304.4502022,Surgery,5.0
+518,519,n/a,Mary Davis,361,510.8235157,Physical Therapy,6.0
+519,520,Cedar Sinai Clinic,Michael Thomas,494,698.5424926,Medication,10.0
+520,521,Riverside Hospital,Mary Anderson,148,1532.013468,Counseling,10.0
+521,522,Green Valley Medical Center,Sarah Davis,82,1616.787754,Surgery,5.0
+522,523,Maple Grove Health Facility,Thomas Martin,139,959.1417547,Surgery,9.0
+523,524,Silver Oak Medical Plaza,Joseph Gonzalez,332,1447.214355,Surgery,1.0
+524,525,Riverside Hospital,John Smith,229,624.6908648,Counseling,9.0
+525,526,Cedar Sinai Clinic,James Martinez,173,793.152757,Surgery,4.0
+526,527,Green Valley Medical Center,Jessica Moore,451,111.6181755,Physical Therapy,3.0
+527,528,Riverside Hospital,Richard Thomas,192,1222.902847,Physical Therapy,10.0
+528,529,n/a,David Hernandez,150,887.6884683,Surgery,5.0
+529,530,Silver Oak Medical Plaza,Thomas Smith,234,1512.437629,Physical Therapy,4.0
+530,531,Maple Grove Health Facility,David Jones,82,1746.074192,Surgery,7.0
+531,532,Silver Oak Medical Plaza,Charles Taylor,142,388.1475769,Surgery,6.0
+532,533,Riverside Hospital,Karen Brown,181,1908.366534,Surgery,1.0
+533,534,n/a,Joseph Lopez,130,838.2005434,Surgery,7.0
+534,535,n/a,Karen Jackson,282,557.1447974,Physical Therapy,5.0
+535,536,Riverside Hospital,William Garcia,359,94.17703579,Counseling,10.0
+536,537,n/a,Patricia Lopez,290,1594.306719,Counseling,4.0
+537,538,Riverside Hospital,Michael Gonzalez,396,684.9304397,Counseling,4.0
+538,539,Silver Oak Medical Plaza,Sarah Smith,106,1319.639408,Medication,7.0
+539,540,Maple Grove Health Facility,Richard Taylor,174,1007.470982,Surgery,8.0
+540,541,Cedar Sinai Clinic,Mary Gonzalez,247,1466.128558,Medication,1.0
+541,542,n/a,Patricia Martinez,42,211.4160334,Counseling,7.0
+542,543,Silver Oak Medical Plaza,Mary Miller,123,502.4481045,Physical Therapy,5.0
+543,544,Silver Oak Medical Plaza,Karen Martin,389,488.7005068,Surgery,9.0
+544,545,Green Valley Medical Center,Thomas Anderson,262,915.2152249,Physical Therapy,9.0
+545,546,n/a,William Miller,449,1350.640528,Medication,1.0
+546,547,n/a,Richard Anderson,413,874.5365129,Counseling,5.0
+547,548,Green Valley Medical Center,Jessica Miller,75,1007.61055,Physical Therapy,7.0
+548,549,Cedar Sinai Clinic,Michael Williams,409,1750.666682,Medication,7.0
+549,550,Silver Oak Medical Plaza,John Martin,385,820.5885038,Counseling,7.0
+550,551,Riverside Hospital,Jennifer Williams,150,373.4349286,Counseling,4.0
+551,552,Cedar Sinai Clinic,Robert Garcia,281,439.4803859,Medication,9.0
+552,553,Green Valley Medical Center,Joseph Williams,168,777.2363019,Physical Therapy,7.0
+553,554,Green Valley Medical Center,William Wilson,211,809.9554404,Surgery,6.0
+554,555,Green Valley Medical Center,Elizabeth Garcia,290,1310.743232,Medication,8.0
+555,556,Green Valley Medical Center,Karen Smith,495,301.8254374,Physical Therapy,10.0
+556,557,n/a,Patricia Davis,254,1181.544008,Counseling,5.0
+557,558,Silver Oak Medical Plaza,Thomas Davis,82,1195.396254,Counseling,4.0
+558,559,Green Valley Medical Center,Jennifer Anderson,444,561.2450389,Counseling,9.0
+559,560,n/a,Richard Jones,211,526.7368241,Physical Therapy,5.0
+560,561,Silver Oak Medical Plaza,David Martin,365,270.6386927,Counseling,10.0
+561,562,Cedar Sinai Clinic,Robert Brown,299,1077.881412,Surgery,6.0
+562,563,Cedar Sinai Clinic,Robert Williams,389,421.1202442,Counseling,1.0
+563,564,Cedar Sinai Clinic,Jessica Miller,499,485.6630342,Medication,7.0
+564,565,Cedar Sinai Clinic,Linda Davis,263,1445.338756,Surgery,7.0
+565,566,Green Valley Medical Center,Sarah Jones,375,456.6853825,Counseling,4.0
+566,567,n/a,Barbara Martinez,176,477.9505329,Surgery,2.0
+567,568,Maple Grove Health Facility,Sarah Lopez,246,1263.585755,Medication,9.0
+568,569,Maple Grove Health Facility,Sarah Smith,406,73.1911103,Medication,10.0
+569,570,Green Valley Medical Center,James Davis,311,946.8396629,Medication,5.0
+570,571,Maple Grove Health Facility,Susan Miller,313,1173.566092,Medication,8.0
+571,572,Green Valley Medical Center,Charles Smith,433,696.2995599,Physical Therapy,4.0
+572,573,Cedar Sinai Clinic,Richard Williams,392,446.6435641,Counseling,5.0
+573,574,Silver Oak Medical Plaza,Susan Brown,213,1962.589716,Medication,5.0
+574,575,Riverside Hospital,Karen Jones,329,853.1001852,Counseling,5.0
+575,576,Silver Oak Medical Plaza,Elizabeth Davis,236,1589.733605,Counseling,7.0
+576,577,Maple Grove Health Facility,Sarah Moore,369,160.4831837,Medication,9.0
+577,578,Riverside Hospital,Mary Moore,257,494.3570541,Counseling,9.0
+578,579,Maple Grove Health Facility,Thomas Davis,311,1512.750049,Medication,10.0
+579,580,Silver Oak Medical Plaza,Richard Lopez,481,879.7769083,Counseling,10.0
+580,581,Green Valley Medical Center,James Jones,421,1726.65782,Surgery,1.0
+581,582,Riverside Hospital,James Martin,304,158.000651,Medication,10.0
+582,583,n/a,Jennifer Miller,421,267.112206,Surgery,2.0
+583,584,Maple Grove Health Facility,James Jones,358,956.0663139,Surgery,5.0
+584,585,Green Valley Medical Center,James Anderson,199,1838.378771,Physical Therapy,1.0
+585,586,Cedar Sinai Clinic,Robert Martinez,286,1284.655404,Medication,4.0
+586,587,Silver Oak Medical Plaza,Jennifer Martin,226,1779.241281,Medication,3.0
+587,588,Riverside Hospital,Michael Jackson,233,785.8888548,Medication,3.0
+588,589,Riverside Hospital,Michael Jones,76,1025.228743,Physical Therapy,3.0
+589,590,Green Valley Medical Center,Thomas Williams,221,1436.398894,Medication,9.0
+590,591,Green Valley Medical Center,James Hernandez,283,1068.64223,Medication,7.0
+591,592,Silver Oak Medical Plaza,Susan Wilson,300,526.2320036,Physical Therapy,9.0
+592,593,n/a,Joseph Hernandez,181,1482.407483,Medication,9.0
+593,594,Silver Oak Medical Plaza,Patricia Martin,374,1532.661455,Medication,3.0
+594,595,n/a,Sarah Brown,311,758.4520622,Counseling,6.0
+595,596,Cedar Sinai Clinic,Thomas Williams,105,1196.64537,Counseling,6.0
+596,597,n/a,Barbara Miller,292,1804.942302,Surgery,9.0
+597,598,Silver Oak Medical Plaza,Susan Garcia,435,765.3301209,Medication,5.0
+598,599,Maple Grove Health Facility,Robert Garcia,81,953.7961338,Physical Therapy,5.0
+599,600,Maple Grove Health Facility,Linda Martin,473,659.559185,Counseling,2.0
+600,601,Maple Grove Health Facility,Susan Martinez,226,610.0380448,Medication,2.0
+601,602,Cedar Sinai Clinic,Susan Wilson,323,1121.67546,Surgery,10.0
+602,603,Maple Grove Health Facility,Karen Johnson,250,1415.842,Surgery,10.0
+603,604,Silver Oak Medical Plaza,John Rodriguez,379,1735.350852,Counseling,7.0
+604,605,Silver Oak Medical Plaza,Richard Davis,328,1170.771331,Physical Therapy,1.0
+605,606,Riverside Hospital,Jessica Taylor,198,1377.169856,Physical Therapy,5.0
+606,607,Silver Oak Medical Plaza,Elizabeth Moore,368,313.2289131,Medication,4.0
+607,608,Silver Oak Medical Plaza,Joseph Moore,129,411.8756506,Physical Therapy,6.0
+608,609,Green Valley Medical Center,Barbara Rodriguez,53,318.2486172,Physical Therapy,3.0
+609,610,Maple Grove Health Facility,Karen Jackson,84,1247.204183,Medication,8.0
+610,611,Riverside Hospital,Jennifer Miller,105,1044.751764,Counseling,2.0
+611,612,Cedar Sinai Clinic,Robert Taylor,378,1241.015976,Counseling,1.0
+612,613,Maple Grove Health Facility,John Martin,363,1025.682752,Surgery,6.0
+613,614,Maple Grove Health Facility,Karen Smith,12,1717.84738,Physical Therapy,5.0
+614,615,Maple Grove Health Facility,Elizabeth Jones,446,560.5412961,Surgery,8.0
+615,616,n/a,Sarah Johnson,384,1170.957095,Counseling,6.0
+616,617,Riverside Hospital,Jessica Williams,475,552.6190109,Counseling,8.0
+617,618,Maple Grove Health Facility,Richard Williams,388,613.8800984,Surgery,5.0
+618,619,Cedar Sinai Clinic,Sarah Martin,87,1238.203297,Physical Therapy,9.0
+619,620,Riverside Hospital,Charles Hernandez,236,1017.072076,Surgery,8.0
+620,621,Silver Oak Medical Plaza,Barbara Garcia,421,1660.09175,Surgery,8.0
+621,622,Green Valley Medical Center,Charles Martin,279,75.91792373,Surgery,5.0
+622,623,Green Valley Medical Center,William Garcia,102,375.2436748,Medication,5.0
+623,624,Silver Oak Medical Plaza,Patricia Anderson,494,807.8121402,Medication,5.0
+624,625,n/a,John Taylor,343,147.3639669,Counseling,4.0
+625,626,Green Valley Medical Center,Susan Brown,473,1135.956742,Medication,4.0
+626,627,Green Valley Medical Center,Linda Moore,428,861.1142225,Counseling,7.0
+627,628,Cedar Sinai Clinic,James Moore,78,310.2696809,Surgery,1.0
+628,629,Riverside Hospital,Mary Taylor,463,704.1527315,Surgery,5.0
+629,630,Green Valley Medical Center,Susan Brown,494,1979.097728,Surgery,8.0
+630,631,Cedar Sinai Clinic,Mary Johnson,319,1129.28691,Medication,7.0
+631,632,Riverside Hospital,Susan Martin,19,959.4938001,Medication,6.0
+632,633,Green Valley Medical Center,Jennifer Moore,65,1840.745721,Physical Therapy,5.0
+633,634,Green Valley Medical Center,Susan Garcia,234,356.5336156,Medication,7.0
+634,635,Maple Grove Health Facility,Mary Brown,105,1515.615651,Surgery,3.0
+635,636,Silver Oak Medical Plaza,Jennifer Wilson,281,1852.989944,Medication,2.0
+636,637,Maple Grove Health Facility,Barbara Hernandez,440,1935.343904,Physical Therapy,1.0
+637,638,Silver Oak Medical Plaza,Jennifer Davis,186,742.3590665,Physical Therapy,5.0
+638,639,n/a,Patricia Jones,187,138.5107984,Physical Therapy,5.0
+639,640,Cedar Sinai Clinic,Michael Thomas,63,480.6191471,Physical Therapy,1.0
+640,641,Green Valley Medical Center,Robert Martin,492,454.3126226,Surgery,10.0
+641,642,Riverside Hospital,Barbara Brown,273,395.2263491,Counseling,1.0
+642,643,Cedar Sinai Clinic,James Johnson,285,334.6396836,Medication,2.0
+643,644,Silver Oak Medical Plaza,Barbara Gonzalez,221,1881.904227,Medication,10.0
+644,645,Cedar Sinai Clinic,Michael Hernandez,142,1165.371706,Surgery,7.0
+645,646,n/a,William Taylor,76,305.8729177,Surgery,8.0
+646,647,n/a,David Moore,278,587.2511661,Physical Therapy,8.0
+647,648,Cedar Sinai Clinic,Linda Davis,257,830.4701381,Counseling,5.0
+648,649,n/a,Sarah Lopez,455,1253.806719,Counseling,1.0
+649,650,Maple Grove Health Facility,Sarah Thomas,84,562.4995786,Physical Therapy,2.0
+650,651,Riverside Hospital,William Johnson,176,1514.848871,Counseling,7.0
+651,652,Green Valley Medical Center,William Smith,410,769.3496539,Physical Therapy,7.0
+652,653,Cedar Sinai Clinic,Karen Jackson,136,1653.697577,Physical Therapy,5.0
+653,654,Green Valley Medical Center,Jennifer Hernandez,211,1793.487229,Physical Therapy,5.0
+654,655,Cedar Sinai Clinic,John Johnson,143,829.7952346,Surgery,6.0
+655,656,Riverside Hospital,Sarah Davis,393,427.617137,Counseling,3.0
+656,657,Silver Oak Medical Plaza,Jennifer Brown,57,832.8152719,Counseling,7.0
+657,658,Cedar Sinai Clinic,Elizabeth Miller,419,125.5341724,Medication,5.0
+658,659,Riverside Hospital,John Jackson,421,1955.067487,Physical Therapy,6.0
+659,660,Riverside Hospital,Elizabeth Martinez,253,1269.496854,Medication,7.0
+660,661,n/a,Susan Davis,87,896.6480297,Counseling,2.0
+661,662,Riverside Hospital,David Jackson,189,243.6785371,Counseling,2.0
+662,663,Maple Grove Health Facility,Jessica Brown,364,469.8987943,Counseling,6.0
+663,664,Green Valley Medical Center,Sarah Martin,26,1282.353291,Medication,5.0
+664,665,Maple Grove Health Facility,John Brown,43,1650.486941,Counseling,1.0
+665,666,Cedar Sinai Clinic,Elizabeth Davis,248,527.8524138,Counseling,10.0
+666,667,Maple Grove Health Facility,David Williams,20,298.6027314,Medication,2.0
+667,668,Riverside Hospital,Patricia Rodriguez,432,1055.533097,Physical Therapy,8.0
+668,669,Cedar Sinai Clinic,David Wilson,3,1574.994151,Surgery,2.0
+669,670,Maple Grove Health Facility,Joseph Williams,482,1225.475553,Medication,8.0
+670,671,Riverside Hospital,Thomas Wilson,452,563.6083259,Surgery,8.0
+671,672,Green Valley Medical Center,Linda Garcia,12,507.1802608,Surgery,8.0
+672,673,Maple Grove Health Facility,Elizabeth Wilson,244,139.1554005,Physical Therapy,5.0
+673,674,Green Valley Medical Center,Sarah Martin,138,158.4371214,Medication,5.0
+674,675,Cedar Sinai Clinic,James Wilson,197,1951.910936,Medication,9.0
+675,676,Maple Grove Health Facility,Jessica Wilson,398,1232.183223,Counseling,10.0
+676,677,Cedar Sinai Clinic,Robert Davis,336,1528.005829,Surgery,10.0
+677,678,Green Valley Medical Center,Sarah Martinez,210,1517.27782,Medication,5.0
+678,679,Silver Oak Medical Plaza,Jennifer Moore,21,997.7026068,Medication,9.0
+679,680,Riverside Hospital,Thomas Thomas,287,1280.962346,Medication,10.0
+680,681,Silver Oak Medical Plaza,Susan Wilson,37,555.611039,Counseling,5.0
+681,682,Maple Grove Health Facility,Elizabeth Moore,415,87.5904149,Physical Therapy,10.0
+682,683,Cedar Sinai Clinic,James Davis,28,902.6851856,Medication,4.0
+683,684,Green Valley Medical Center,Elizabeth Wilson,75,1672.837864,Surgery,2.0
+684,685,Silver Oak Medical Plaza,Michael Johnson,168,396.3876163,Physical Therapy,5.0
+685,686,Silver Oak Medical Plaza,Elizabeth Gonzalez,10,1135.794189,Surgery,1.0
+686,687,n/a,Charles Williams,211,1201.181958,Medication,1.0
+687,688,Maple Grove Health Facility,Susan Martinez,409,1049.534752,Surgery,4.0
+688,689,Cedar Sinai Clinic,David Moore,260,1410.664554,Counseling,9.0
+689,690,Cedar Sinai Clinic,Michael Williams,436,1754.542315,Surgery,6.0
+690,691,Silver Oak Medical Plaza,Barbara Gonzalez,436,1344.943598,Surgery,9.0
+691,692,Maple Grove Health Facility,Robert Martin,445,1461.755594,Counseling,3.0
+692,693,n/a,Patricia Wilson,48,64.69436627,Surgery,3.0
+693,694,Silver Oak Medical Plaza,Mary Taylor,335,285.6088757,Physical Therapy,1.0
+694,695,Maple Grove Health Facility,Jennifer Smith,301,839.3256116,Surgery,9.0
+695,696,Cedar Sinai Clinic,David Rodriguez,499,494.4744039,Medication,6.0
+696,697,Silver Oak Medical Plaza,Robert Jones,367,1610.713821,Surgery,2.0
+697,698,Silver Oak Medical Plaza,Susan Anderson,36,942.1764168,Counseling,4.0
+698,699,Green Valley Medical Center,Mary Brown,425,864.8903942,Surgery,2.0
+699,700,Riverside Hospital,Jessica Moore,39,765.340342,Counseling,5.0
+700,701,Maple Grove Health Facility,Michael Jackson,151,1539.582597,Counseling,6.0
+701,702,Riverside Hospital,Barbara Hernandez,360,1473.425646,Counseling,3.0
+702,703,Cedar Sinai Clinic,Linda Martinez,280,1521.573755,Surgery,6.0
+703,704,Green Valley Medical Center,William Wilson,88,1694.049742,Physical Therapy,8.0
+704,705,Maple Grove Health Facility,Elizabeth Anderson,322,132.7861911,Counseling,6.0
+705,706,Cedar Sinai Clinic,Patricia Jones,495,1704.175226,Counseling,7.0
+706,707,Cedar Sinai Clinic,Michael Jackson,344,526.3507879,Physical Therapy,9.0
+707,708,Riverside Hospital,Charles Garcia,186,1011.875336,Surgery,8.0
+708,709,Silver Oak Medical Plaza,Charles Johnson,150,655.6243489,Surgery,8.0
+709,710,Riverside Hospital,Jessica Smith,117,589.1354015,Physical Therapy,6.0
+710,711,Riverside Hospital,David Hernandez,233,842.1417839,Counseling,5.0
+711,712,Maple Grove Health Facility,Susan Brown,309,97.59900516,Medication,9.0
+712,713,Silver Oak Medical Plaza,John Hernandez,364,360.8013547,Physical Therapy,5.0
+713,714,Maple Grove Health Facility,James Brown,253,1597.436744,Surgery,3.0
+714,715,Riverside Hospital,Jessica Johnson,132,854.2772986,Physical Therapy,1.0
+715,716,Maple Grove Health Facility,Thomas Hernandez,212,1783.531448,Physical Therapy,1.0
+716,717,Green Valley Medical Center,Charles Johnson,432,1749.153804,Surgery,2.0
+717,718,Silver Oak Medical Plaza,Patricia Lopez,180,854.0194457,Counseling,8.0
+718,719,Silver Oak Medical Plaza,Jennifer Davis,436,818.7272398,Counseling,9.0
+719,720,n/a,Joseph Smith,269,1644.337178,Physical Therapy,3.0
+720,721,Green Valley Medical Center,David Miller,429,501.656958,Surgery,5.0
+721,722,Silver Oak Medical Plaza,Michael Garcia,324,220.4183586,Surgery,8.0
+722,723,Silver Oak Medical Plaza,Patricia Brown,118,1103.052676,Counseling,9.0
+723,724,Silver Oak Medical Plaza,Robert Moore,217,1946.404477,Physical Therapy,6.0
+724,725,Green Valley Medical Center,Patricia Jones,368,878.3213562,Surgery,5.0
+725,726,Cedar Sinai Clinic,Jennifer Davis,71,1111.300014,Medication,5.0
+726,727,Silver Oak Medical Plaza,Jessica Miller,278,1083.936242,Counseling,5.0
+727,728,Green Valley Medical Center,Joseph Lopez,29,357.713575,Counseling,5.0
+728,729,Silver Oak Medical Plaza,Karen Davis,492,1679.995014,Physical Therapy,8.0
+729,730,Riverside Hospital,John Jackson,490,1637.174574,Surgery,2.0
+730,731,Cedar Sinai Clinic,Linda Moore,153,208.4039891,Counseling,6.0
+731,732,Cedar Sinai Clinic,David Smith,116,1332.474177,Physical Therapy,7.0
+732,733,Cedar Sinai Clinic,Karen Anderson,261,1099.637666,Surgery,4.0
+733,734,Riverside Hospital,Richard Martin,364,1092.623163,Physical Therapy,7.0
+734,735,Riverside Hospital,Linda Hernandez,262,309.680774,Physical Therapy,2.0
+735,736,Silver Oak Medical Plaza,Patricia Hernandez,197,558.172746,Surgery,4.0
+736,737,Cedar Sinai Clinic,James Gonzalez,383,1514.696804,Counseling,2.0
+737,738,Green Valley Medical Center,William Rodriguez,57,821.5397175,Surgery,9.0
+738,739,Silver Oak Medical Plaza,Patricia Wilson,478,652.5796618,Surgery,6.0
+739,740,Cedar Sinai Clinic,Joseph Williams,198,1513.872853,Surgery,5.0
+740,741,Cedar Sinai Clinic,Thomas Smith,467,822.5918253,Physical Therapy,1.0
+741,742,Cedar Sinai Clinic,Linda Taylor,428,490.7252333,Medication,5.0
+742,743,Green Valley Medical Center,Karen Lopez,82,1462.402048,Counseling,4.0
+743,744,Maple Grove Health Facility,Sarah Jackson,302,704.4597083,Counseling,10.0
+744,745,Maple Grove Health Facility,Barbara Martinez,37,1136.141522,Medication,3.0
+745,746,Green Valley Medical Center,Richard Williams,43,1980.135489,Physical Therapy,3.0
+746,747,Riverside Hospital,Linda Miller,241,295.546414,Surgery,9.0
+747,748,Cedar Sinai Clinic,Michael Thomas,159,1297.361103,Surgery,5.0
+748,749,Silver Oak Medical Plaza,Robert Brown,192,1334.082852,Physical Therapy,10.0
+749,750,Maple Grove Health Facility,John Smith,163,1548.249,Medication,7.0
+750,751,Silver Oak Medical Plaza,Karen Williams,438,724.2332802,Physical Therapy,5.0
+751,752,n/a,Patricia Jackson,476,1513.839971,Physical Therapy,5.0
+752,753,Cedar Sinai Clinic,Jennifer Garcia,101,128.5532296,Medication,5.0
+753,754,Green Valley Medical Center,Joseph Rodriguez,253,1111.469833,Counseling,4.0
+754,755,Riverside Hospital,Michael Davis,41,780.3709536,Physical Therapy,2.0
+755,756,Cedar Sinai Clinic,William Thomas,212,253.0857319,Surgery,5.0
+756,757,Riverside Hospital,Karen Thomas,230,903.9691832,Medication,8.0
+757,758,Green Valley Medical Center,Mary Wilson,49,1112.136782,Medication,10.0
+758,759,Riverside Hospital,Joseph Miller,411,522.6410407,Medication,5.0
+759,760,Maple Grove Health Facility,John Davis,145,175.4542862,Counseling,5.0
+760,761,Riverside Hospital,Susan Taylor,91,1556.34949,Surgery,9.0
+761,762,Cedar Sinai Clinic,Patricia Taylor,296,409.0165527,Medication,2.0
+762,763,Silver Oak Medical Plaza,John Johnson,35,844.9439352,Counseling,9.0
+763,764,n/a,Jessica Anderson,111,809.470597,Medication,9.0
+764,765,Riverside Hospital,Karen Rodriguez,100,1940.042233,Physical Therapy,6.0
+765,766,Riverside Hospital,Jennifer Martinez,272,992.9058947,Medication,10.0
+766,767,Silver Oak Medical Plaza,Susan Brown,287,1034.004613,Counseling,3.0
+767,768,Green Valley Medical Center,William Brown,418,1226.301208,Counseling,6.0
+768,769,Maple Grove Health Facility,James Garcia,163,1358.210095,Surgery,5.0
+769,770,Silver Oak Medical Plaza,Jennifer Garcia,133,577.5263267,Counseling,8.0
+770,771,Silver Oak Medical Plaza,Jessica Taylor,129,266.6895257,Surgery,5.0
+771,772,Riverside Hospital,Sarah Anderson,60,1989.107257,Counseling,8.0
+772,773,Green Valley Medical Center,Charles Anderson,24,1563.634171,Counseling,9.0
+773,774,Riverside Hospital,Michael Moore,110,1377.851899,Surgery,3.0
+774,775,Green Valley Medical Center,David Garcia,326,691.3602016,Physical Therapy,1.0
+775,776,Cedar Sinai Clinic,Sarah Williams,92,1980.193125,Medication,6.0
+776,777,Riverside Hospital,Barbara Moore,97,1159.000637,Counseling,9.0
+777,778,Green Valley Medical Center,Robert Williams,148,603.1558681,Surgery,5.0
+778,779,Cedar Sinai Clinic,Barbara Miller,237,1193.413978,Counseling,4.0
+779,780,Maple Grove Health Facility,Patricia Moore,214,1131.415248,Surgery,9.0
+780,781,Cedar Sinai Clinic,Charles Brown,307,1151.887054,Medication,6.0
+781,782,n/a,Robert Johnson,77,437.3373716,Physical Therapy,5.0
+782,783,Riverside Hospital,Susan Wilson,34,1072.163721,Counseling,7.0
+783,784,Green Valley Medical Center,Joseph Gonzalez,236,1138.885079,Medication,5.0
+784,785,Riverside Hospital,David Moore,358,252.1131757,Physical Therapy,9.0
+785,786,Cedar Sinai Clinic,Richard Anderson,331,1581.268479,Physical Therapy,9.0
+786,787,Green Valley Medical Center,Susan Moore,420,225.6450218,Physical Therapy,10.0
+787,788,Maple Grove Health Facility,William Martin,351,1129.74498,Surgery,4.0
+788,789,Green Valley Medical Center,Joseph Moore,142,592.7900775,Physical Therapy,10.0
+789,790,Maple Grove Health Facility,Patricia Moore,158,1991.126304,Medication,2.0
+790,791,Maple Grove Health Facility,Joseph Lopez,212,975.0685898,Physical Therapy,3.0
+791,792,Silver Oak Medical Plaza,Susan Lopez,309,1373.049772,Counseling,2.0
+792,793,Green Valley Medical Center,Karen Moore,263,338.5892355,Physical Therapy,1.0
+793,794,n/a,Charles Wilson,153,1272.264743,Surgery,5.0
+794,795,Maple Grove Health Facility,James Moore,450,1106.180558,Physical Therapy,3.0
+795,796,Maple Grove Health Facility,Sarah Johnson,135,1314.494519,Medication,1.0
+796,797,Maple Grove Health Facility,Jennifer Wilson,336,1839.812339,Medication,5.0
+797,798,Cedar Sinai Clinic,Linda Martinez,407,1259.606722,Medication,3.0
+798,799,Cedar Sinai Clinic,Michael Rodriguez,108,1960.624917,Physical Therapy,8.0
+799,800,Riverside Hospital,Patricia Wilson,475,1883.991368,Counseling,5.0
+800,801,Silver Oak Medical Plaza,Joseph Garcia,385,1636.657528,Surgery,3.0
+801,802,Cedar Sinai Clinic,James Martin,92,1550.971538,Surgery,3.0
+802,803,Riverside Hospital,Thomas Jones,179,1373.442488,Counseling,5.0
+803,804,Green Valley Medical Center,Thomas Jackson,287,1689.464355,Surgery,1.0
+804,805,Cedar Sinai Clinic,Michael Taylor,138,1821.995719,Medication,2.0
+805,806,Maple Grove Health Facility,Jessica Johnson,474,510.4091074,Counseling,2.0
+806,807,Green Valley Medical Center,James Miller,101,1559.213552,Counseling,7.0
+807,808,Green Valley Medical Center,Jessica Jackson,134,378.1521572,Medication,10.0
+808,809,Riverside Hospital,David Moore,259,1079.436508,Physical Therapy,8.0
+809,810,Silver Oak Medical Plaza,Karen Miller,146,1528.316234,Counseling,4.0
+810,811,Maple Grove Health Facility,Karen Williams,57,582.4715717,Physical Therapy,9.0
+811,812,Silver Oak Medical Plaza,Jennifer Johnson,75,591.8425403,Counseling,5.0
+812,813,Silver Oak Medical Plaza,Joseph Smith,63,486.1971125,Medication,3.0
+813,814,Maple Grove Health Facility,Karen Rodriguez,284,463.0162683,Medication,1.0
+814,815,Silver Oak Medical Plaza,Thomas Jackson,54,307.7583859,Counseling,5.0
+815,816,Maple Grove Health Facility,Joseph Gonzalez,78,1183.704733,Surgery,8.0
+816,817,Riverside Hospital,John Garcia,368,641.3487957,Physical Therapy,9.0
+817,818,Riverside Hospital,Charles Taylor,411,278.7923851,Medication,2.0
+818,819,Green Valley Medical Center,Patricia Thomas,495,793.6180804,Medication,7.0
+819,820,Green Valley Medical Center,David Garcia,85,1780.938386,Counseling,8.0
+820,821,Green Valley Medical Center,Susan Smith,233,1918.565982,Surgery,1.0
+821,822,Silver Oak Medical Plaza,Joseph Williams,24,1957.032781,Surgery,7.0
+822,823,Green Valley Medical Center,Elizabeth Thomas,74,1650.274231,Physical Therapy,7.0
+823,824,n/a,Robert Anderson,115,1686.730078,Counseling,5.0
+824,825,Cedar Sinai Clinic,David Lopez,489,427.044847,Medication,7.0
+825,826,Silver Oak Medical Plaza,William Wilson,420,508.4352357,Surgery,4.0
+826,827,Cedar Sinai Clinic,Mary Martinez,204,1697.114021,Medication,4.0
+827,828,Green Valley Medical Center,Susan Lopez,67,648.0042915,Counseling,5.0
+828,829,Cedar Sinai Clinic,Karen Gonzalez,158,1953.819504,Medication,9.0
+829,830,Riverside Hospital,James Hernandez,484,1465.603153,Physical Therapy,4.0
+830,831,Cedar Sinai Clinic,James Moore,396,1564.337258,Medication,10.0
+831,832,Green Valley Medical Center,Karen Rodriguez,287,595.0907597,Counseling,1.0
+832,833,Silver Oak Medical Plaza,Michael Rodriguez,455,438.8888942,Counseling,5.0
+833,834,Riverside Hospital,Jessica Hernandez,430,481.8568864,Medication,3.0
+834,835,Green Valley Medical Center,Robert Wilson,326,1109.950205,Physical Therapy,3.0
+835,836,Maple Grove Health Facility,Linda Rodriguez,97,1470.940687,Counseling,3.0
+836,837,Riverside Hospital,Karen Anderson,415,1319.195579,Surgery,9.0
+837,838,n/a,Thomas Jones,318,1303.952919,Surgery,5.0
+838,839,Cedar Sinai Clinic,Mary Wilson,76,1465.195082,Counseling,5.0
+839,840,Riverside Hospital,Barbara Jackson,152,1212.691859,Surgery,10.0
+840,841,Cedar Sinai Clinic,Joseph Johnson,411,1323.928243,Surgery,4.0
+841,842,Maple Grove Health Facility,Elizabeth Miller,154,1514.028778,Medication,9.0
+842,843,Cedar Sinai Clinic,Sarah Davis,268,1901.670643,Medication,7.0
+843,844,n/a,Linda Thomas,100,1405.724726,Surgery,8.0
+844,845,Maple Grove Health Facility,Karen Wilson,275,1570.473497,Counseling,10.0
+845,846,n/a,Robert Hernandez,336,241.2586431,Medication,5.0
+846,847,Cedar Sinai Clinic,James Garcia,394,119.7966166,Counseling,9.0
+847,848,Green Valley Medical Center,Thomas Davis,234,1648.780337,Physical Therapy,8.0
+848,849,Silver Oak Medical Plaza,Sarah Lopez,364,683.7172817,Surgery,5.0
+849,850,Cedar Sinai Clinic,Mary Miller,190,238.8214242,Counseling,9.0
+850,851,Maple Grove Health Facility,David Garcia,357,179.6925683,Medication,5.0
+851,852,Maple Grove Health Facility,Robert Wilson,120,1144.41945,Medication,4.0
+852,853,Silver Oak Medical Plaza,Elizabeth Thomas,19,1408.5332,Surgery,3.0
+853,854,Green Valley Medical Center,Michael Smith,251,223.9542683,Surgery,7.0
+854,855,Maple Grove Health Facility,William Johnson,494,1805.236668,Medication,1.0
+855,856,Green Valley Medical Center,Thomas Taylor,398,1714.4099,Counseling,6.0
+856,857,Maple Grove Health Facility,John Jackson,49,600.7679753,Counseling,4.0
+857,858,Silver Oak Medical Plaza,Jennifer Martin,430,563.54123,Counseling,5.0
+858,859,Maple Grove Health Facility,William Smith,344,299.0900262,Counseling,7.0
+859,860,Green Valley Medical Center,Michael Martin,351,279.4645098,Surgery,2.0
+860,861,Riverside Hospital,Patricia Johnson,360,788.1858662,Counseling,5.0
+861,862,Riverside Hospital,James Anderson,104,1885.50436,Medication,7.0
+862,863,Cedar Sinai Clinic,Jennifer Lopez,161,1221.899348,Physical Therapy,1.0
+863,864,Green Valley Medical Center,Thomas Smith,390,250.8827447,Medication,6.0
+864,865,Cedar Sinai Clinic,Robert Brown,493,1833.035574,Medication,9.0
+865,866,Green Valley Medical Center,Barbara Anderson,344,1423.789687,Physical Therapy,6.0
+866,867,Maple Grove Health Facility,Michael Williams,475,113.1104225,Surgery,9.0
+867,868,Cedar Sinai Clinic,Jessica Martinez,454,1380.023289,Counseling,10.0
+868,869,Maple Grove Health Facility,Richard Gonzalez,101,328.1636403,Medication,5.0
+869,870,Silver Oak Medical Plaza,Patricia Jones,481,1281.532126,Medication,2.0
+870,871,Cedar Sinai Clinic,David Williams,253,781.1100141,Surgery,1.0
+871,872,Green Valley Medical Center,Karen Miller,249,1755.014947,Medication,7.0
+872,873,Green Valley Medical Center,Jessica Martinez,5,737.8686092,Counseling,10.0
+873,874,Riverside Hospital,Jessica Hernandez,157,1635.962307,Physical Therapy,10.0
+874,875,Riverside Hospital,Joseph Davis,9,1173.205176,Physical Therapy,8.0
+875,876,Cedar Sinai Clinic,Joseph Jackson,163,1314.836129,Counseling,9.0
+876,877,n/a,William Garcia,46,985.4241365,Counseling,8.0
+877,878,Riverside Hospital,Patricia Davis,79,1728.055876,Physical Therapy,1.0
+878,879,Riverside Hospital,William Wilson,445,1961.768257,Surgery,1.0
+879,880,Cedar Sinai Clinic,Jessica Smith,325,954.8715829,Surgery,9.0
+880,881,Cedar Sinai Clinic,Susan Thomas,191,156.0826635,Counseling,3.0
+881,882,Green Valley Medical Center,Karen Taylor,314,532.4955683,Physical Therapy,2.0
+882,883,Silver Oak Medical Plaza,Joseph Thomas,225,1172.405039,Medication,5.0
+883,884,Cedar Sinai Clinic,Michael Rodriguez,146,979.3866106,Counseling,8.0
+884,885,Cedar Sinai Clinic,Thomas Jones,2,341.0640594,Counseling,5.0
+885,886,Riverside Hospital,Michael Jones,477,314.0499874,Medication,1.0
+886,887,Maple Grove Health Facility,Richard Hernandez,387,977.3374275,Physical Therapy,8.0
+887,888,Silver Oak Medical Plaza,Richard Garcia,402,367.1894522,Surgery,7.0
+888,889,Silver Oak Medical Plaza,Linda Johnson,210,1578.811259,Counseling,6.0
+889,890,Silver Oak Medical Plaza,Thomas Wilson,457,373.0669309,Counseling,3.0
+890,891,Cedar Sinai Clinic,Mary Thomas,78,126.2783174,Surgery,7.0
+891,892,Maple Grove Health Facility,Charles Moore,497,1321.824953,Surgery,10.0
+892,893,Maple Grove Health Facility,David Rodriguez,69,1046.864424,Physical Therapy,1.0
+893,894,n/a,Mary Taylor,263,694.9766451,Surgery,9.0
+894,895,Riverside Hospital,David Garcia,75,1786.0157,Physical Therapy,5.0
+895,896,Green Valley Medical Center,Richard Rodriguez,360,836.5366344,Surgery,10.0
+896,897,Cedar Sinai Clinic,Linda Miller,339,262.5628878,Surgery,5.0
+897,898,Maple Grove Health Facility,Jessica Williams,289,1973.226425,Surgery,2.0
+898,899,Green Valley Medical Center,James Miller,211,1379.193135,Medication,7.0
+899,900,Cedar Sinai Clinic,William Thomas,12,545.6619472,Physical Therapy,9.0
+900,901,Maple Grove Health Facility,Richard Wilson,468,355.2640819,Counseling,3.0
+901,902,Green Valley Medical Center,John Anderson,472,186.6286261,Counseling,9.0
+902,903,Cedar Sinai Clinic,Patricia Davis,87,772.634455,Surgery,9.0
+903,904,Green Valley Medical Center,Sarah Thomas,20,238.8204507,Medication,8.0
+904,905,Cedar Sinai Clinic,Patricia Wilson,2,1248.093042,Medication,8.0
+905,906,Silver Oak Medical Plaza,Robert Jones,338,1591.593007,Counseling,7.0
+906,907,n/a,James Smith,365,492.9691147,Counseling,3.0
+907,908,Cedar Sinai Clinic,Michael Rodriguez,355,793.9749271,Medication,10.0
+908,909,Riverside Hospital,Susan Anderson,485,604.7156719,Medication,9.0
+909,910,n/a,John Gonzalez,133,1496.812754,Medication,1.0
+910,911,n/a,Charles Martinez,363,508.8813904,Surgery,6.0
+911,912,Silver Oak Medical Plaza,James Gonzalez,107,1994.047594,Medication,5.0
+912,913,n/a,Robert Davis,448,960.4315776,Surgery,10.0
+913,914,Green Valley Medical Center,Sarah Hernandez,499,79.8406356,Counseling,5.0
+914,915,Cedar Sinai Clinic,Michael Brown,143,452.8668949,Medication,10.0
+915,916,Maple Grove Health Facility,Linda Davis,428,512.9833301,Surgery,1.0
+916,917,Riverside Hospital,Susan Rodriguez,252,1129.747324,Counseling,1.0
+917,918,Cedar Sinai Clinic,Karen Martinez,75,1539.832769,Surgery,9.0
+918,919,Riverside Hospital,Robert Williams,155,914.2467402,Medication,5.0
+919,920,Green Valley Medical Center,Susan Jones,364,722.4680404,Medication,1.0
+920,921,Riverside Hospital,Elizabeth Williams,382,1888.558252,Physical Therapy,7.0
+921,922,Cedar Sinai Clinic,Jessica Jackson,112,670.7957067,Surgery,2.0
+922,923,Green Valley Medical Center,Michael Thomas,440,1205.186719,Medication,4.0
+923,924,n/a,Patricia Anderson,13,1106.958227,Medication,9.0
+924,925,Silver Oak Medical Plaza,Charles Davis,279,518.3797989,Medication,4.0
+925,926,Riverside Hospital,Patricia Davis,301,1090.103855,Surgery,1.0
+926,927,Green Valley Medical Center,Linda Taylor,409,1583.168282,Physical Therapy,2.0
+927,928,Silver Oak Medical Plaza,James Rodriguez,144,1311.386665,Surgery,5.0
+928,929,Cedar Sinai Clinic,Susan Anderson,400,292.3423559,Surgery,1.0
+929,930,Maple Grove Health Facility,Jennifer Thomas,13,172.9166839,Surgery,7.0
+930,931,Maple Grove Health Facility,Karen Lopez,382,1474.728708,Physical Therapy,6.0
+931,932,Green Valley Medical Center,David Williams,336,73.92398291,Surgery,10.0
+932,933,Cedar Sinai Clinic,David Jackson,231,976.4094303,Medication,5.0
+933,934,Green Valley Medical Center,Thomas Garcia,322,735.0987903,Counseling,2.0
+934,935,Silver Oak Medical Plaza,Robert Moore,203,178.3926192,Medication,1.0
+935,936,Cedar Sinai Clinic,William Wilson,54,1395.240654,Counseling,5.0
+936,937,Cedar Sinai Clinic,Sarah Hernandez,143,774.4008142,Physical Therapy,8.0
+937,938,Green Valley Medical Center,Karen Anderson,269,1257.246,Physical Therapy,6.0
+938,939,Riverside Hospital,Jessica Garcia,284,208.0572725,Medication,5.0
+939,940,Silver Oak Medical Plaza,James Anderson,46,312.4558926,Medication,2.0
+940,941,Cedar Sinai Clinic,Michael Jones,363,1190.102742,Medication,2.0
+941,942,Silver Oak Medical Plaza,Thomas Johnson,433,343.5246011,Physical Therapy,1.0
+942,943,Silver Oak Medical Plaza,Susan Miller,14,950.5975341,Physical Therapy,6.0
+943,944,Green Valley Medical Center,Michael Gonzalez,126,323.5979354,Surgery,3.0
+944,945,Silver Oak Medical Plaza,Jennifer Johnson,178,1162.866509,Surgery,2.0
+945,946,Cedar Sinai Clinic,Karen Taylor,463,1526.303022,Physical Therapy,4.0
+946,947,Riverside Hospital,Linda Moore,3,601.7474606,Physical Therapy,10.0
+947,948,Cedar Sinai Clinic,Charles Moore,120,913.1001694,Surgery,1.0
+948,949,Maple Grove Health Facility,Jessica Lopez,20,312.6931637,Physical Therapy,6.0
+949,950,n/a,William Lopez,259,862.7544169,Physical Therapy,10.0
+950,951,Riverside Hospital,Robert Martinez,282,1069.847517,Counseling,9.0
+951,952,Cedar Sinai Clinic,Thomas Lopez,465,999.1295339,Physical Therapy,1.0
+952,953,Green Valley Medical Center,John Lopez,109,88.46391561,Surgery,5.0
+953,954,n/a,William Thomas,222,1171.927083,Physical Therapy,9.0
+954,955,Green Valley Medical Center,Karen Davis,231,828.2086158,Counseling,1.0
+955,956,Silver Oak Medical Plaza,Robert Thomas,485,1034.949182,Physical Therapy,6.0
+956,957,Cedar Sinai Clinic,Patricia Anderson,73,441.6615662,Counseling,1.0
+957,958,Riverside Hospital,Patricia Smith,20,1695.522897,Counseling,3.0
+958,959,Maple Grove Health Facility,Elizabeth Smith,300,1088.022427,Medication,2.0
+959,960,Maple Grove Health Facility,Karen Wilson,136,844.8651976,Physical Therapy,5.0
+960,961,Green Valley Medical Center,Susan Moore,102,278.7003796,Counseling,3.0
+961,962,Silver Oak Medical Plaza,Michael Williams,351,1619.448248,Surgery,7.0
+962,963,Riverside Hospital,Barbara Rodriguez,265,402.1191684,Surgery,7.0
+963,964,Green Valley Medical Center,Sarah Garcia,342,1396.246586,Counseling,4.0
+964,965,Maple Grove Health Facility,Linda Lopez,407,1683.119195,Medication,3.0
+965,966,Green Valley Medical Center,Barbara Williams,286,256.4970984,Surgery,7.0
+966,967,Silver Oak Medical Plaza,Jennifer Taylor,397,1880.181595,Counseling,3.0
+967,968,Cedar Sinai Clinic,Linda Lopez,408,1498.18644,Medication,4.0
+968,969,Maple Grove Health Facility,Susan Martinez,155,1543.690773,Physical Therapy,2.0
+969,970,Riverside Hospital,Barbara Johnson,383,1890.955162,Physical Therapy,2.0
+970,971,Green Valley Medical Center,Robert Williams,289,1156.129457,Surgery,5.0
+971,972,Riverside Hospital,Robert Gonzalez,383,713.6926124,Medication,6.0
+972,973,Riverside Hospital,Richard Lopez,162,1545.284157,Medication,3.0
+973,974,Green Valley Medical Center,Barbara Anderson,243,147.3494693,Physical Therapy,2.0
+974,975,Maple Grove Health Facility,Richard Garcia,417,1593.964212,Physical Therapy,4.0
+975,976,Silver Oak Medical Plaza,Elizabeth Taylor,318,1243.183106,Medication,2.0
+976,977,Riverside Hospital,Michael Martin,13,627.420959,Counseling,9.0
+977,978,Maple Grove Health Facility,Elizabeth Smith,147,1001.107942,Counseling,6.0
+978,979,Silver Oak Medical Plaza,Sarah Hernandez,30,1359.051451,Physical Therapy,4.0
+979,980,Maple Grove Health Facility,David Anderson,348,336.396583,Medication,3.0
+980,981,Cedar Sinai Clinic,Susan Johnson,35,1666.753969,Counseling,2.0
+981,982,Riverside Hospital,Thomas Moore,383,1179.91019,Counseling,5.0
+982,983,Silver Oak Medical Plaza,Barbara Brown,406,969.5340498,Surgery,5.0
+983,984,Riverside Hospital,Elizabeth Miller,243,1853.059523,Physical Therapy,5.0
+984,985,Maple Grove Health Facility,Mary Martinez,297,1429.489209,Surgery,2.0
+985,986,Silver Oak Medical Plaza,Karen Brown,341,831.9074618,Counseling,8.0
+986,987,Maple Grove Health Facility,Michael Martin,15,920.8063276,Medication,1.0
+987,988,Silver Oak Medical Plaza,John Moore,411,1326.35265,Counseling,1.0
+988,989,Riverside Hospital,Charles Moore,118,782.8566683,Surgery,4.0
+989,990,Green Valley Medical Center,Charles Smith,337,763.5716565,Counseling,5.0
+990,991,Maple Grove Health Facility,Sarah Jackson,137,761.9918225,Medication,2.0
+991,992,Silver Oak Medical Plaza,Michael Brown,197,746.8508386,Surgery,7.0
+992,993,Silver Oak Medical Plaza,David Gonzalez,70,982.3026496,Medication,8.0
+993,994,Maple Grove Health Facility,James Johnson,70,1439.052093,Counseling,10.0
+994,995,Green Valley Medical Center,Karen Moore,84,1199.061808,Counseling,5.0
+995,996,Silver Oak Medical Plaza,Charles Martin,438,1625.316045,Surgery,7.0
+996,997,Green Valley Medical Center,Linda Martin,255,348.3395227,Physical Therapy,8.0
+997,998,Cedar Sinai Clinic,Mary Martin,351,1485.272908,Physical Therapy,5.0
+998,999,Silver Oak Medical Plaza,James Martinez,142,1630.479191,Surgery,3.0
+999,1000,Silver Oak Medical Plaza,Barbara Martin,260,1759.963492,Physical Therapy,1.0
