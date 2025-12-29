@@ -4,6 +4,7 @@ Hey Everyone I am presenting my project on Hospital Patient Analytical Dashboard
 walk you through this ppt here I have jot down each and everything I did in this project. I will
 explain mostly everything from this as opening multiple files at once may cause crashing the
 system. Now, if this is clear to you all. Let’s begin
+
 Firstly, The
 Situation is
 A hospital group needed a single view of patient information: who is being admitted, what
@@ -12,11 +13,12 @@ The available data was in two raw Excel files with 1,000 rows each, containing i
 values and no clear structure for analysis. There was no integrated dashboard to help
 management monitor KPIs such as total revenue, average cost per day, or recovery rating by
 hospital, doctor, or treatment type.
+
 Task we pulled off are
 Cleaning and standardizing the data. Storing it properly in a relational database with
 primary/foreign keys. Answering key business questions with SQL. Presents the results in a
 user‑friendly Power BI dashboard.
-• START THE PPT *
+
 Action taken on the way
 1) Data cleaning and preparation in Python & Excel
 Converted the original Excel files to CSV and kept a duplicate to ensure the raw data remained
@@ -39,11 +41,10 @@ hospital2 (hospital/doctor‑level data).
 Defined PatientID as primary key in hospital1 and as a foreign key in hospital2 to create a proper
 relational model.
 Wrote SQL queries to answer business questions, for example:
-Explain by the PPT *
 4) Dashboard design (Power BI)
 Loaded the cleaned tables into Power BI and recreated the relationships using PatientID.
 Built a 4‑page interactive dashboard with slicers for Year and Month:
-• Explain by the PPT*
+
 Result obtained from the action
 Created a single, interactive dashboard that gives hospital management a clear view of clinical,
 operational, and financial performance in one place “The final dashboard shows total revenue
