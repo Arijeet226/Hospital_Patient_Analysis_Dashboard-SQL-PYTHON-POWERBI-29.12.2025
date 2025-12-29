@@ -6,7 +6,7 @@ explain mostly everything from this as opening multiple files at once may cause 
 system. Now, if this is clear to you all. Let’s begin
 
 Firstly, The
-Situation is
+## Situation is
 A hospital group needed a single view of patient information: who is being admitted, what
 treatment they receive, how much they are billed, and how well they recover.
 The available data was in two raw Excel files with 1,000 rows each, containing issues like missing
@@ -19,12 +19,12 @@ Python: Pandas (cleaning, EDA)
 MySQL: Relational modeling, SQL queries
 Power BI: Dashboard with relationships/slicers
 
-Task we pulled off are
+## Task we pulled off are
 Cleaning and standardizing the data. Storing it properly in a relational database with
 primary/foreign keys. Answering key business questions with SQL. Presents the results in a
 user‑friendly Power BI dashboard.
 
-Action taken on the way
+## Action taken on the way
 1) Data cleaning and preparation in Python & Excel
 Converted the original Excel files to CSV and kept a duplicate to ensure the raw data remained
 untouched. Then after that Loaded both datasets into Python (Pandas) and performed data
@@ -66,7 +66,7 @@ Cost & Recovery trends (multi-line chart)
 Hospital/Doctor comparisons (bar charts)
 Treatment-type breakdowns (pie charts)
 
-Result obtained from the action
+## Result obtained from the action
 Created a single, interactive dashboard that gives hospital management a clear view of clinical,
 operational, and financial performance in one place “The final dashboard shows total revenue
 vs target, cost and recovery trends, and variation across hospitals and doctors, and it supports
